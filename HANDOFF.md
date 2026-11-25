@@ -11,4 +11,7 @@ Gmail, verifica grafica e pipeline audio/video; nessun test nativo della skill d
 Prima foundation: consultati inventario Git e decisioni della sessione. Asset esistenti da preservare. Aggiornare questo file dopo sessioni significative, distinguendo verifiche, fonti aggiornate/invariate e blocchi.
 
 ## Aggiornamento community
-Struttura community documentata; prossimo passo: invitare personalmente persone interessate e creare gruppo dopo adesioni. Nessun invito inviato, gruppo creato o membro registrato. Aggiornati README, AGENTS, governance, obiettivi, decisioni, roadmap, fonti, mappa, changelog e sessione. Manifesto, ecosistema e protocollo verificati invariati; CLAUDE eredita AGENTS. Verifica post-commit da effettuare; nessun test software pertinente.
+Struttura community documentata; struttura conservata ma inattiva; decisione successiva: partire da soli, produrre contenuti e raccogliere feedback. Nessun gruppo o reclutamento ora. Nessun invito inviato, gruppo creato o membro registrato. Aggiornati README, AGENTS, governance, obiettivi, decisioni, roadmap, fonti, mappa, changelog e sessione. Manifesto, ecosistema e protocollo verificati invariati; CLAUDE eredita AGENTS. Inventario del commit precedente verificato; nessun test software pertinente.
+
+## Revisione strategica
+Priorità: primo contenuto utile e verificato, non ulteriore organizzazione. Aggiornati README, roadmap, decisioni, governance, documenti community operativi, strategia social, changelog e sessione. Principi, condotta, obiettivi e mappa restano coerenti; nessun nuovo file. Nessun test software pertinente.

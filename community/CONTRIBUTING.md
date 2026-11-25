@@ -1,4 +1,5 @@
 # Partecipazione
+Ruoli futuri, non attivi salvo il fondatore. Nessun reclutamento nella fase attuale.
 - Fondatore: direzione, identità e responsabilità.
 - Membri fondatori: partecipanti attivi della fase iniziale, ruolo concordato, non assegnato per amicizia.
 - Collaboratori: contributi specifici concordati.
