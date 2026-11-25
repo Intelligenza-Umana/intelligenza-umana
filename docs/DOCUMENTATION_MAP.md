@@ -50,3 +50,9 @@ Consultare SOURCE_OF_TRUTH per autorità e CONTEXT_INTEGRITY per procedura. Inve
 | `brand/Intelligenza_Umana_logo_02.md` | Scheda logo | Cambio identità |
 | `brand/logo-02/README.md` e asset | Varianti logo | Cambio asset |
 | `brand/quattro-proposte-logo.png` | Archivio proposte | Cambio archivio |
+| `community/README.md` | Community | Cambio regole o organizzazione |
+| `community/PRINCIPLES.md` | Community | Cambio regole o organizzazione |
+| `community/MEMBERS.md` | Community | Cambio adesioni o consenso |
+| `community/CONTRIBUTING.md` | Community | Cambio regole o organizzazione |
+| `community/CODE_OF_CONDUCT.md` | Community | Cambio regole o organizzazione |
+| `community/ONBOARDING.md` | Community | Cambio procedura ingresso |
