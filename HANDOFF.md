@@ -15,3 +15,6 @@ Struttura community documentata; struttura conservata ma inattiva; decisione suc
 
 ## Revisione strategica
 Priorità: primo contenuto utile e verificato, non ulteriore organizzazione. Aggiornati README, roadmap, decisioni, governance, documenti community operativi, strategia social, changelog e sessione. Principi, condotta, obiettivi e mappa restano coerenti; nessun nuovo file. Nessun test software pertinente.
+
+## Riferimenti Instagram
+Catalogo di 27 profili candidati salvato in social/INSTAGRAM_REFERENCES.md; handle non verificati singolarmente, nessun follow effettuato. Aggiornati strategia social, mappa, fonti di verità, indice fonti, changelog e sessione. Roadmap, governance, decisioni e registro progetti invariati; nessun test software pertinente.

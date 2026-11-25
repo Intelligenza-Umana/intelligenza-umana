@@ -56,3 +56,4 @@ Consultare SOURCE_OF_TRUTH per autorità e CONTEXT_INTEGRITY per procedura. Inve
 | `community/CONTRIBUTING.md` | Community | Cambio regole o organizzazione |
 | `community/CODE_OF_CONDUCT.md` | Community | Cambio regole o organizzazione |
 | `community/ONBOARDING.md` | Community | Cambio procedura ingresso |
+| `social/INSTAGRAM_REFERENCES.md` | Riferimenti editoriali social | Cambio profili, link o stato verifica |

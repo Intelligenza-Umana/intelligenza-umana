@@ -7,3 +7,6 @@ Aggiunti principi, ruoli, condotta, onboarding e registro volontario; aggiornate
 
 ### Revisione community — 2026-11-25
 Avvio individuale e priorità ai contenuti; community predisposta ma inattiva.
+
+### Riferimenti Instagram — 2026-11-25
+Catalogo di 27 profili candidati, organizzato per ambito, con limiti di verifica.
