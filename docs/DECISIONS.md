@@ -1,0 +1,2 @@
+# Registro decisioni
+2026-11-25 — Approvate: GitHub unica fonte di verità, esclusione Notion per evitare dispersione; repository madre per governance e satelliti separati per software; logo 02 selezionato (master non definitivo); Context Integrity obbligatorio; Project Lifecycle Skill indipendente. Proposte non definitive: stack video, nomi satelliti, organizzazione GitHub futura, monetizzazione. Registrare nuove decisioni con motivazione, alternative, stato e conseguenze.

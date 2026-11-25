@@ -1,0 +1,2 @@
+# Brand guidelines
+Logo 02 selezionato: monogramma geometrico IU, palette carbone/avorio, wordmark sans serif. Consultare [scheda originale](Intelligenza_Umana_logo_02.md) e [varianti](logo-02/README.md). Asset raster preliminari; ricostruire master vettoriale coerente, verificare leggibilità 16/32 px, crop circolare, monocromia e somiglianze. Non inventare codici colore o font definitivi. Nessuna modifica identità senza approvazione.
