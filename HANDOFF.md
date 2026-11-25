@@ -30,3 +30,6 @@ Applicata la Project Lifecycle Skill v0.2.0 (bootstrap conservativo, approvato d
 
 ## Deploy Vercel iu-web
 Progetto Vercel `intelligenza-umana-web` creato nel team javametalcoders-projects e collegato al repository GitHub; deploy dalla branch di sessione (commit 42d5238), stato Ready, https://intelligenza-umana-web.vercel.app verificato con 200 su pagina, favicon e logo. `main` del satellite contiene ancora solo il README: serve unire la PR perché i push su main pubblichino la pagina. Dominio non collegato. Aggiornati registro e handoff; ecosistema, roadmap, decisioni invariati.
+
+## Merge delle PR
+Il 2026-11-25 il fondatore ha chiesto il merge: unite (squash) intelligenza-umana-web#1 (`634886f`), intelligenza-umana#1 (`42092c6`) e fabio-zagaria-portfolio#87 (`8cd4417`, link al sito dalla pagina `/intelligenza-umana`). Vercel pubblica ora il sito in produzione da `main` (deploy Ready, risposta 200 verificata); i push futuri su `main` del satellite si pubblicano da soli. Nel portfolio il deploy di `master` era ancora in corso al momento della verifica. Sostituisce l'indicazione precedente «serve unire la PR»; dominio non collegato.
