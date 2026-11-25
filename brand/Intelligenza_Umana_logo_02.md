@@ -10,7 +10,7 @@ Il monogramma richiama l'identità del progetto attraverso le sue iniziali, senz
 
 La proposta 02 è la seconda riga della tavola originale:
 
-[Apri la tavola con le quattro proposte](https://chatgpt.com/library?file_id=libfile_73b326ad622081919c04e9b6cb5255a0&account_id=personal)
+![Tavola delle quattro proposte: il monogramma IU è la proposta 02](quattro-proposte-logo.png)
 
 La tavola presenta il simbolo autonomo, il logo completo su fondo chiaro, la versione invertita su fondo scuro e un'anteprima circolare per il profilo.
 
