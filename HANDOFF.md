@@ -4,7 +4,7 @@ Foundation v0.1.0: governance, identità, strategia, base conoscenza e protocoll
 ## Decisioni
 GitHub unica fonte di verità; niente Notion; repository madre e satelliti separati; integrità documentale obbligatoria; skill indipendente v0.2.0.
 ## Prossimi passi
-Verificare account, rifinire logo master vettoriale, scegliere primo contenuto e sperimentare pipeline video; definire repository Studio solo quando serve.
+Verificare account, rifinire logo master vettoriale, definire MVP Studio di raccolta, screening e backlog prima della pipeline video; repository software separata da creare quando autorizzata.
 ## Blocchi
 Gmail, verifica grafica e pipeline audio/video; nessun test nativo della skill dichiarato.
 ## Integrità
@@ -18,3 +18,6 @@ Priorità: primo contenuto utile e verificato, non ulteriore organizzazione. Agg
 
 ## Riferimenti Instagram
 Catalogo di 27 profili candidati salvato in social/INSTAGRAM_REFERENCES.md; handle non verificati singolarmente, nessun follow effettuato. Aggiornati strategia social, mappa, fonti di verità, indice fonti, changelog e sessione. Roadmap, governance, decisioni e registro progetti invariati; nessun test software pertinente.
+
+## Automazione editoriale
+Primo post logo ufficiale pubblicato secondo il fondatore, non verificato direttamente. Impostazione Studio concordata, documentata in studio/EDITORIAL_AUTOMATION.md e BUDGET.md. Prossimo passo: progettare MVP e verificare fonti/provider/costi. Aggiornati requisiti, stack, video, roadmap, decisioni, social, website, fact-checking, mappa, fonti, changelog e sessione. Governance e registro progetti invariati; nessun satellite, codice, abbonamento o spesa creati. Nessun test software pertinente.

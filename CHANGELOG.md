@@ -10,3 +10,6 @@ Avvio individuale e priorità ai contenuti; community predisposta ma inattiva.
 
 ### Riferimenti Instagram — 2026-11-25
 Catalogo di 27 profili candidati, organizzato per ambito, con limiti di verifica.
+
+### Automazione editoriale — 2026-11-25
+Esteso Studio a ricerca, screening AI, backlog umano, contenuti multiformato e newsletter futura; documentati MVP e ipotesi costi.

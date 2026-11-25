@@ -4,3 +4,5 @@ Manifesto: filosofia; GOALS: obiettivi; DECISIONS: decisioni; ROADMAP: pianifica
 Community: community/PRINCIPLES.md per principi applicativi, CONTRIBUTING.md per ruoli, CODE_OF_CONDUCT.md per condotta, ONBOARDING.md per ingresso, MEMBERS.md per adesioni registrate con consenso. Il manifesto resta autorevole per filosofia.
 
 Catalogo profili Instagram candidati: social/INSTAGRAM_REFERENCES.md; distinto dalle fonti probatorie in knowledge/sources/.
+
+Studio: EDITORIAL_AUTOMATION.md per flusso e MVP; BUDGET.md per ipotesi economiche e newsletter; TECH_STACK.md per candidati tecnici.
