@@ -13,3 +13,6 @@ Catalogo di 27 profili candidati, organizzato per ambito, con limiti di verifica
 
 ### Automazione editoriale — 2026-11-25
 Esteso Studio a ricerca, screening AI, backlog umano, contenuti multiformato e newsletter futura; documentati MVP e ipotesi costi.
+
+### Sito web in costruzione — 2026-11-25
+Creata nel satellite intelligenza-umana-web la bozza Angular statica «Sito in costruzione» con logo 02 e favicon; registrato il satellite.
