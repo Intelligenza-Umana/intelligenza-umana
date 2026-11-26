@@ -1,2 +1,2 @@
-# Argomenti
-Backend, cybersecurity, integrità dei dati, algoritmi, AI affidabile, analisi statica, testing, sistemi distribuiti e developer tools. Popolare con note verificate.
+# Topics
+Backend engineering, cybersecurity, data integrity, algorithms, reliable AI, static analysis, testing, distributed systems and developer tools. Populate with verified notes.
