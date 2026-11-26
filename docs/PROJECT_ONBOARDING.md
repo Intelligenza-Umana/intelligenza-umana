@@ -1,2 +1,2 @@
-# Onboarding satellite
-Definire scopo e confini; approvare creazione; creare repository separata; applicare bootstrap della Project Lifecycle Skill; inserire AGENTS, CLAUDE, HANDOFF e riferimento esplicito alla governance madre; verificare accessi, registrare URL e responsabilità nel PROJECT_REGISTRY; aggiornare ecosistema, roadmap e handoff. Non duplicare fonti centrali.
+# Repository onboarding
+Define scope and boundaries; approve creation; create a separate repository; apply Project Lifecycle Skill bootstrap; add AGENTS, CLAUDE, HANDOFF and explicit central governance reference; verify access, register URL and responsibilities in PROJECT_REGISTRY; update ecosystem, roadmap and handoff. Do not duplicate central sources.
