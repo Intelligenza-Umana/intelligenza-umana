@@ -12,3 +12,7 @@ The [GitHub organization](https://github.com/Intelligenza-Umana) is established 
 
 ## Verify a project
 This registry lists the canonical repositories currently associated with Intelligenza Umana. Compare the owner and repository URL with the entry above; a copied name, logo or README label alone does not establish authenticity. Release signatures and provenance attestations are not yet configured.
+
+## Organization repository
+
+[.github](https://github.com/Intelligenza-Umana/.github) hosts the public organization profile and default community files. It is currently the only repository in the organization. The website repository above is private, so its link is accessible only to authorized readers; the [public website](https://intelligenza-umana-web.vercel.app/) is the public entry point. Repository visibility and ownership were checked on 2026-11-26.
