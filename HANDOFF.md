@@ -8,7 +8,7 @@ Engineering standard, CONTRIBUTING, SECURITY, RFC and GitHub issue/PR templates 
 ## Product audit
 - Learning Ledger: README, MIT LICENSE, marketplace and plugin 1.0.0 manifests, CONTRIBUTING and Python 3.11–3.13 CI workflow verified. Seven skills declared; deterministic local ledger. At 0c733aa: 45 tests pass locally on Python 3.12; main CI passed. Latest GitHub release v0.2.2; manifest declares 1.0.0. Installation and compatibility unverified.
 - Spring Security Advisor: README, MIT LICENSE, marketplace and plugin 1.0.0 manifests, Python 3.11–3.13 CI workflow verified. README declares 23 rules and 31 contextual checks; standalone scanner. CONTRIBUTING added in 9415bb7. At ea7ed69 and after the documentation update: 124 tests pass locally on Python 3.12; previous main CI passed. Latest GitHub release v0.2.0; manifest declares 1.0.0. Coverage, false positives and installation remain unverified.
-- Project Lifecycle Skill: README, SKILL and Claude/Codex integrations read. Prototype v0.2.0; MIT license added in f9c0774. Native installation and real integration tests remain unverified.
+- Project Lifecycle Skill: README, SKILL and Claude/Codex integrations read. README reports v0.3.0 and a Python installer; MIT licensed. Native host workflows remain unverified.
 - IU Model Router: early model-routing skill for coding agents, MIT licensed; native discovery, delegation and model selection are unverified. No GitHub release was found on 2026-11-26.
 ## Next steps
 1. Verify mailbox reply delivery and ongoing monitoring; check reporting channels in each project.
