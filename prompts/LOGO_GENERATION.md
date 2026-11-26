@@ -1,2 +1,2 @@
-# Prompt logo
-Agisci da senior brand designer. Proponi quattro concetti originali per Intelligenza Umana: simbolo, wordmark esatto, varianti mono/chiaro/scuro/avatar. Applica brand/ANTI_AI_SLOP.md; evita cliché AI, effetti e mockup che mascherano difetti. Verifica silhouette, 32 px, crop circolare, riproducibilità e coerenza. Non dichiarare originalità garantita; richiedere verifica e master vettoriale.
+# Logo prompt
+Act as a senior brand designer. Propose four original concepts for Intelligenza Umana: symbol, exact wordmark, monochrome/light/dark/avatar variants. Apply brand/ANTI_AI_SLOP.md; avoid AI clichés, effects and mockups that hide defects. Verify silhouette, 32 px readability, circular crop, reproducibility and consistency. Do not guarantee originality; require verification and a vector master.
