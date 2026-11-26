@@ -1,7 +1,10 @@
 # Roadmap
-- 00 Foundation: documentazione iniziale, logo raster disponibile; rifinitura e account ancora aperti.
-- 01 Studio: MVP raccolta, screening AI, dashboard e backlog approvato; poi articolo e carosello, prove audio/motion e QA.
-- 02 Lancio editoriale: primo contenuto divulgativo verificato e pubblicazione approvata; logo già pubblicato secondo il fondatore.
-- 03 Community: live e formazione; struttura iniziale documentata. Attivazione dopo contenuti utili e interesse reale del pubblico; prima feedback, poi eventuali collaborazioni. Nessun reclutamento ora.
-- 04 Web: archivio pubblico e newsletter come fasi successive; progetto satellite quando giustificato.
-- 05 Espansione: collaborazioni ed eventuale monetizzazione, non impegno attuale.
+- Foundation: riallineare governance, manifesto, sito e registro; preservare identità visiva e storia.
+- Extensions: verificare installazione, test, licenze, documentazione inglese e release dei tre strumenti esistenti.
+- Open source readiness: definire CONTRIBUTING, condotta, SECURITY, criteri PR, CI e gestione issue; valutare organizzazione GitHub separata.
+- Research: raccogliere problemi reali, analizzare alternative e lacune, proporre RFC e prototipi verificabili.
+- Flagship: scegliere un problema validato, delimitare MVP e aprire contributi modulari.
+- Community: attivare collaborazione gradualmente in base a interesse reale e capacità di manutenzione.
+- Web: catalogo progetti, documentazione, release e contributi; nessun obbligo editoriale/social.
+
+La precedente pipeline editoriale, video e newsletter è sospesa, non cancellata. Nessuna scadenza o monetizzazione obbligatoria.

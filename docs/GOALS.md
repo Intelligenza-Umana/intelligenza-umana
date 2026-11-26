@@ -1,4 +1,7 @@
 # Obiettivi
-Condividere conoscenza e pensiero critico; imparare costruendo; sviluppare contenuti di qualità sostenibili nel tempo. Automatizzare attività ripetitive di produzione, mantenendo controllo umano. Passione prima della monetizzazione; rispettare tempo disponibile e priorità professionali. Nessuna scadenza artificiale.
-
-Favorire una comunità di persone curiose, con confronto libero e contributi volontari.
+- Risolvere problemi concreti di backend, cybersecurity, integrità dei dati, algoritmi e affidabilità AI.
+- Pubblicare software, librerie, CLI, skill e MCP con licenze appropriate, documentazione e verifiche.
+- Sviluppare una community aperta a issue, proposte, pull request e peer review.
+- Ricercare un progetto collaborativo principale a partire da esigenze validate, senza imporre una tecnologia o un'idea prematura.
+- Migliorare i tre strumenti esistenti e la loro reperibilità senza dipendere dai social.
+- Imparare costruendo; rispettare tempo e priorità professionali. Nessuna scadenza artificiale.

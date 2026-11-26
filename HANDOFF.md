@@ -33,3 +33,6 @@ Progetto Vercel `intelligenza-umana-web` creato nel team javametalcoders-project
 
 ## Merge delle PR
 Il 2026-11-25 il fondatore ha chiesto il merge: unite (squash) intelligenza-umana-web#1 (`634886f`), intelligenza-umana#1 (`42092c6`) e fabio-zagaria-portfolio#87 (`8cd4417`, link al sito dalla pagina `/intelligenza-umana`). Vercel pubblica ora il sito in produzione da `main` (deploy Ready, risposta 200 verificata); i push futuri su `main` del satellite si pubblicano da soli. Nel portfolio il deploy di `master` era ancora in corso al momento della verifica. Sostituisce l'indicazione precedente «serve unire la PR»; dominio non collegato.
+
+## 2026-11-26 — Foundation v0.2.0 (direzione corrente, prevale sullo storico)
+Rifondazione approvata: laboratorio open source, sicurezza/backend/integrità dati/algoritmi/AI verificabile, community tecnica. Sospesa pipeline editoriale. Tre strumenti esistenti registrati; flagship da ricercare. Prossimi passi: audit documentale residuo, readiness dei plugin, proposta organizzazione GitHub e riallineamento sito. Nessun trasferimento, pubblicazione o test software effettuato. Logo e storico preservati.
