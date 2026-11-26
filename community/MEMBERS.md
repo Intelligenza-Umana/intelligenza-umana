@@ -1,5 +1,5 @@
-# Registro volontario
-Registro inattivo fino a decisione di attivazione. Nessun membro aggiuntivo confermato o registrato. Il fondatore mantiene la direzione del progetto. Registrare soltanto nome scelto o pseudonimo, ruolo e contributi pertinenti, previo consenso esplicito anche rispetto alla persistenza della cronologia Git. Non inserire recapiti, dati sensibili o persone soltanto invitate. Accesso al gruppo e accesso GitHub sono distinti. Rivedere periodicamente necessità e consenso; spiegare che rimuovere una riga non cancella la cronologia.
+# Voluntary registry
+Inactive until activation is approved. No additional members confirmed or registered. The founder directs the project. Record only chosen name or pseudonym, role and relevant contributions with explicit consent, including persistence in Git history. Do not include contact details, sensitive data or merely invited people. Group and GitHub access are distinct. Review necessity and consent periodically; deleting a row does not erase history.
 
-| Nome scelto | Ruolo | Contributo | Stato |
+| Chosen name | Role | Contribution | Status |
 |---|---|---|---|
