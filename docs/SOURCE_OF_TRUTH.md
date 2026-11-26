@@ -1,2 +1,4 @@
 # Fonti di verità
 MANIFESTO: filosofia; docs/VISION: visione; GOALS: obiettivi; DECISIONS: decisioni; ROADMAP: pianificazione; GOVERNANCE: standard; WORKFLOW e DEFINITION_OF_DONE: verifica; PROJECT_REGISTRY ed ECOSYSTEM: progetti; HANDOFF: stato; AGENTS: istruzioni; DOCUMENTATION_MAP: indice; brand/: identità; knowledge/ e lab/: ricerca; community/: partecipazione; website/: requisiti portale. Ogni satellite è autorevole per codice e architettura locale. GitHub unica fonte documentale. La strategia editoriale precedente è ritirata e recuperabile nella cronologia Git; non è operativa. social/ACCOUNTS conserva solo inventario storico.
+
+ENGINEERING_STANDARD dettaglia verifiche tecniche; CONTRIBUTING e SECURITY definiscono ingresso e segnalazioni; template GitHub e RFC applicano questi standard senza sostituirli.
