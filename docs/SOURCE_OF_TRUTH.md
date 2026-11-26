@@ -6,3 +6,5 @@ Community: community/PRINCIPLES.md per principi applicativi, CONTRIBUTING.md per
 Catalogo profili Instagram candidati: social/INSTAGRAM_REFERENCES.md; distinto dalle fonti probatorie in knowledge/sources/.
 
 Studio: EDITORIAL_AUTOMATION.md per flusso e MVP; BUDGET.md per ipotesi economiche e newsletter; TECH_STACK.md per candidati tecnici.
+
+Dal 2026-11-26 manifesto, governance, obiettivi, roadmap e decisioni aggiornate prevalgono sulle precedenti strategie editoriali/social/studio, conservate come storico e non operative. Il registro distingue progetti esistenti da proposte.
