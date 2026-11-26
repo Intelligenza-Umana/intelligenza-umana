@@ -1,2 +1,2 @@
 # Onboarding
-La community non è ancora operativa. Quando i progetti saranno pronti, iniziare da README, licenza, manifesto, CONTRIBUTING e issue aperte. Scegliere una issue o proporre un problema; discutere l'approccio e inviare una PR con verifiche. Accessi di scrittura solo quando necessari e concordati. Nessun gruppo social obbligatorio, nessuna registrazione personale richiesta.
+The community is not yet operational. When projects are ready, start with README, license, manifesto, CONTRIBUTING and open issues. Choose an issue or propose a problem; discuss the approach and submit a PR with verification. Write access only when necessary and agreed. No mandatory social group or personal registration.
