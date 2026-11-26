@@ -2,7 +2,7 @@
 | Repository | Responsibility | Status |
 |---|---|---|
 | [intelligenza-umana](https://github.com/fabiozagaria/intelligenza-umana) | Governance and knowledge | Active, public; MIT |
-| [intelligenza-umana-web](https://github.com/fabiozagaria/intelligenza-umana-web) | Public portal | Private repository; Vercel production READY at 578dbe3 |
+| [intelligenza-umana-web](https://github.com/fabiozagaria/intelligenza-umana-web) | Public portal | Private repository; Vercel production READY at 8f31291 |
 | [iu-learning-ledger](https://github.com/fabiozagaria/iu-learning-ledger) | Evidence-based assisted learning | Public, MIT |
 | [iu-spring-security-advisor](https://github.com/fabiozagaria/iu-spring-security-advisor) | Spring Security audit | Public, MIT |
 | [iu-project-lifecycle-skill](https://github.com/fabiozagaria/iu-project-lifecycle-skill) | Project context governance | Public v0.3.0, MIT; native host workflows unverified |
