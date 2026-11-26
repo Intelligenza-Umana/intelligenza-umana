@@ -1,8 +1,2 @@
-# Partecipazione
-Ruoli futuri, non attivi salvo il fondatore. Nessun reclutamento nella fase attuale.
-- Fondatore: direzione, identità e responsabilità.
-- Membri fondatori: partecipanti attivi della fase iniziale, ruolo concordato, non assegnato per amicizia.
-- Collaboratori: contributi specifici concordati.
-- Community: discussione e interesse, nessun impegno obbligatorio.
-
-Proporre idee, fonti, revisioni, esperimenti o software. Concordare ambito, attribuzione, eventuali licenze e accessi prima di contribuire. Rispettare standard editoriali e Context Integrity; pubblicazioni e scelte strategiche richiedono approvazione del fondatore. Nessun diritto societario o compenso implicito. Partecipazione e uscita volontarie.
+# Contribuire
+Aprire una issue con problema, contesto, evidenze e risultato atteso. Per cambi architetturali proporre una RFC prima dell'implementazione. Le PR devono spiegare decisioni, test, rischi e limiti; il contributore deve comprendere il codice anche se assistito da AI. Nessuna soglia di seniority. Segnalare vulnerabilità in privato al maintainer tramite il canale indicato dal progetto; non pubblicare dati sensibili. Fondatore e futuri maintainer decidono merge e release secondo governance. Partecipazione volontaria, nessun compenso implicito.

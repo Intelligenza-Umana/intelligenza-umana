@@ -1,2 +1,2 @@
-# Anti-AI slop
-Evitare cervelli, robot, circuiti, reti neurali stereotipate, neon, gradienti decorativi, occhi mistici, scintille, 3D metallico, stock icon e tipografia futuristica generica. Ogni elemento deve avere funzione, silhouette leggibile e riproducibilità. Video: motion intenzionale, niente effetti gratuiti. Audio: italiano naturale, pronuncia verificata, musica non invasiva. Testi: niente filler, sensazionalismo o fonti inventate. Software: evitare overengineering. Scartare output generici anche se rapidi.
+# Qualità e anti-AI slop
+Identità visiva sobria, leggibile e funzionale; evitare stereotipi AI e decorazioni gratuite. Documentazione senza filler, fonti inventate o promesse infondate. Software: evitare overengineering e codice non compreso; applicare governance, revisione umana e test riproducibili.

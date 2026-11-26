@@ -1,2 +1,2 @@
-# Account
-Instagram: @intelligenzaumana.it, creato e bio inserita secondo fondatore; non verificato esternamente. Gmail dedicata: verifica in corso, creazione non confermata. TikTok, YouTube e Twitch: pianificati/non verificati. Threads e X: da valutare; Telegram non prioritario. Mai salvare credenziali.
+# Account esistenti (inventario storico)
+Instagram @intelligenzaumana.it dichiarato dal fondatore, non verificato. Gmail dedicata non confermata. Nessuna strategia social attiva o nuovi account pianificati. Nessuna credenziale in Git.
