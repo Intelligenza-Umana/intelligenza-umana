@@ -1,2 +1,2 @@
-# Ricerche
-Una nota per domanda di ricerca, metodo, evidenze, limiti e conclusioni. Nessuna ricerca completata registrata.
+# Research
+One note per research question, method, evidence, limitations and conclusions. No completed research registered.
