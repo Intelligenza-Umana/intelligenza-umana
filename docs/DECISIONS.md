@@ -1,12 +1,14 @@
-# Registro decisioni
-2026-11-25 — Approvate: GitHub unica fonte di verità, esclusione Notion per evitare dispersione; repository madre per governance e satelliti separati per software; logo 02 selezionato (master non definitivo); Context Integrity obbligatorio; Project Lifecycle Skill indipendente. Proposte non definitive: stack video, nomi satelliti, organizzazione GitHub futura, monetizzazione. Registrare nuove decisioni con motivazione, alternative, stato e conseguenze.
+# Decision log
+2026-11-25 — Approved: GitHub sole source of truth, no Notion to avoid fragmentation; foundation for governance and independent software repositories; logo 02 selected (master preliminary); mandatory Context Integrity; independent Project Lifecycle Skill. Video stack, satellite names, future organization and monetization were proposals. Record decisions with rationale, alternatives, status and consequences.
 
-2026-11-25 — Approvata struttura community informale e volontaria: nucleo fondatore, collaboratori e community; WhatsApp come canale iniziale previsto, Discord eventuale. Nessuna associazione giuridica ora. Registro facoltativo con consenso; nessun invito o gruppo confermato.
+2026-11-25 — Approved informal voluntary community structure: founding group, collaborators and community; WhatsApp initially proposed, Discord optional. No legal association. Optional consent-based registry; no confirmed invitations or groups.
 
-2026-11-25 — Revisione approvata: avvio individuale, priorità alla produzione di valore e al pubblico. Sospesi nucleo fondatore, reclutamento e gruppo WhatsApp; struttura community conservata per il futuro. Motivo: manca ancora un'offerta concreta per i partecipanti. Inviti limitati a seguire e dare feedback facoltativo.
+2026-11-25 — Approved individual launch focused on value and audience; founding group, recruitment and WhatsApp suspended because no concrete participant offering existed. Optional feedback only.
 
-2026-11-25 — Approvata impostazione Studio come piattaforma editoriale automatizzata: raccolta, filtro AI, approvazione umana, backlog e produzione multiformato. Sostenibilità individuale e frequenza non quotidiana. Stack, provider, tariffe, budget esatto e calendario restano proposte; nessuna spesa o implementazione autorizzata.
+2026-11-25 — Approved Studio editorial automation concept: collection, AI filtering, human approval, backlog and multiformat production. Sustainable individual pace; stack, providers, prices, budget and schedule remained proposals. No spending or implementation authorized.
 
-2026-11-26 — Approvata rifondazione come laboratorio tecnologico open source e community tecnica, in sostituzione della priorità editoriale. Motivazione: utilità concreta, collaborazione e verifica umana/automatica. Organizzazione GitHub separata, nome del metodo e flagship restano proposte; nessun trasferimento autorizzato in questa fase.
+2026-11-26 — Approved refoundation as open-source technology lab and technical community, superseding editorial priorities. Rationale: practical utility, collaboration and human/automated verification. Organization, method name and flagship remain proposals; no transfers authorized.
 
-2026-11-26 — Pulizia approvata: ritirati 16 documenti editoriali, video, Studio e strategie social; conservati asset, inventario account e cronologia Git. Riallineati documenti operativi alla missione ingegneristica. Nessuna migrazione o pubblicazione esterna.
+2026-11-26 — Approved cleanup: retired 16 editorial, video, Studio and social strategy documents; preserved assets, account inventory and Git history. Aligned operational documentation with engineering mission. No migration or external publication.
+
+2026-11-26 — Approved English as canonical project language for international participation. Retain Italian brand name and Italian manifesto translation; preserve historical session records. Website English-first, Italian optional. No change to technical mission or licensing.
