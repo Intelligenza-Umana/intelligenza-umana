@@ -8,3 +8,5 @@ Definire problema e requisiti; studiare alternative; implementare con o senza AI
 Contributi non compresi, senza evidenze adeguate o con rischi non gestiti devono essere corretti prima del merge. Nessun segreto in Git. Vulnerabilità sensibili tramite canale riservato da definire prima dell'apertura pubblica.
 
 Fase attuale: gestione individuale; organizzazione GitHub e community attiva non ancora create. Vedi [community](../community/README.md).
+
+Lo [standard ingegneristico](ENGINEERING_STANDARD.md) dettaglia i requisiti di verifica e release; [SECURITY](../SECURITY.md) disciplina le segnalazioni. I cambi ad alto rischio richiedono revisione indipendente prima di una release stabile.
