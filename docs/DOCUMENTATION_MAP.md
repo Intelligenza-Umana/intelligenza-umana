@@ -10,7 +10,7 @@ Consult SOURCE_OF_TRUTH and CONTEXT_INTEGRITY. Index of known documents; update 
 | docs/ECOSYSTEM.md, PROJECT_REGISTRY.md, PROJECT_ONBOARDING.md | Projects |
 | docs/SOURCE_OF_TRUTH.md, DOCUMENTATION_MAP.md | Authority and index |
 | CONTRIBUTING.md, SECURITY.md | Contributions and vulnerability reporting |
-| .github/pull_request_template.md, .github/ISSUE_TEMPLATE/project-proposal.md | GitHub templates |
+| .github/pull_request_template.md, .github/ISSUE_TEMPLATE/ | GitHub templates |
 | brand/ | Logo, variants and visual standards |
 | community/ | Principles, contributions, conduct, onboarding, registry |
 | knowledge/ | Sources, topics, research |

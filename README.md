@@ -5,7 +5,7 @@ An independent engineering and research initiative building secure, reliable, un
 
 Focus: backend engineering, cybersecurity, data integrity, algorithms, AI reliability, developer tools, skills and MCP. Frontend is supporting infrastructure, not the primary focus.
 
-This foundation governs identity and standards; software lives in independent repositories. The community is an objective, not yet operational.
+This foundation governs identity and standards; software lives in independent repositories. Issues and pull requests are open; the founder maintains the foundation as capacity allows.
 
 [Manifesto](MANIFESTO.md) · [Italian manifesto](MANIFESTO.it.md) · [Goals](docs/GOALS.md) · [Roadmap](docs/ROADMAP.md) · [Governance](docs/GOVERNANCE.md) · [Registry](docs/PROJECT_REGISTRY.md) · [Documentation map](docs/DOCUMENTATION_MAP.md) · [Sources of truth](docs/SOURCE_OF_TRUTH.md) · [Handoff](HANDOFF.md) · [Agents](AGENTS.md) · [Community](community/README.md).
 
@@ -16,4 +16,4 @@ This foundation governs identity and standards; software lives in independent re
 For general enquiries: [intelligenzaumana.lab@gmail.com](mailto:intelligenzaumana.lab@gmail.com). For vulnerability reports, see [SECURITY.md](SECURITY.md).
 
 ## Status
-The foundation is public and licensed under the [MIT License](LICENSE). Software repositories have their own licenses and maturity; see the [project registry](docs/PROJECT_REGISTRY.md). The community is in preparation, and the registered tools have different maturity levels; their installation and platform compatibility still require verification.
+The foundation is public and licensed under the [MIT License](LICENSE). Software repositories have their own licenses and maturity; see the [project registry](docs/PROJECT_REGISTRY.md). The community is at an early stage, and the registered tools have different maturity levels; their installation and platform compatibility still require verification.
