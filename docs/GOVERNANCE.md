@@ -1,12 +1,9 @@
 # Governance
-La repository madre è autorevole per identità, principi, standard, strategia e registro. Satelliti indipendenti per codice, test, release e architettura. Nessuna ereditarietà automatica GitHub: consultare governance centrale e istruzioni locali; segnalare accesso mancante e bloccare attività che richiedono quel contesto.
+The foundation is authoritative for identity, principles, standards, strategy and registry. Independent repositories own code, tests, releases and architecture. GitHub does not automatically inherit these rules: consult central governance and local instructions; report missing access and block work requiring unavailable context.
 
-Il fondatore mantiene inizialmente responsabilità strategica e approvazione delle pubblicazioni. In futuro maintainer e reviewer possono ricevere responsabilità esplicite. La community è aperta a proposte, issue, PR e revisione; accessi e ruoli concordati, nessun membro registrato senza consenso.
+The founder initially retains strategic responsibility and publication approval. Future maintainers and reviewers may receive explicit responsibilities. Proposals, issues, PRs and reviews are welcome when collaboration opens; roles and access are agreed, and no member is registered without consent.
 
-## Human-Verified Engineering (nome provvisorio)
-Definire problema e requisiti; studiare alternative; implementare con o senza AI; comprendere e revisionare il codice; eseguire test e controlli riproducibili; peer review quando disponibile; pubblicare limiti e risultati. Il giudizio umano non è deterministico: i controlli automatici devono integrare, non sostituire, la revisione.
-Contributi non compresi, senza evidenze adeguate o con rischi non gestiti devono essere corretti prima del merge. Nessun segreto in Git. Vulnerabilità sensibili tramite canale riservato da definire prima dell'apertura pubblica.
+## Human-Verified Engineering (working title)
+Define the problem and requirements; study alternatives; implement with or without AI; understand and review code; run reproducible tests and checks; obtain peer review when available; publish limitations and results. Human judgment is not deterministic: automated checks complement review. Contributions lacking understanding, adequate evidence or risk mitigation must be corrected before merge. No secrets in Git. Establish private vulnerability reporting before public opening.
 
-Fase attuale: gestione individuale; organizzazione GitHub e community attiva non ancora create. Vedi [community](../community/README.md).
-
-Lo [standard ingegneristico](ENGINEERING_STANDARD.md) dettaglia i requisiti di verifica e release; [SECURITY](../SECURITY.md) disciplina le segnalazioni. I cambi ad alto rischio richiedono revisione indipendente prima di una release stabile.
+Currently founder-operated; no GitHub organization or active community yet. See [community](../community/README.md). The [engineering standard](ENGINEERING_STANDARD.md) defines verification and release requirements; [SECURITY](../SECURITY.md) governs reporting. High-risk changes require independent review before stable release.
