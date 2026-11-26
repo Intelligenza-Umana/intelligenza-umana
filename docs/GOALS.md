@@ -1,7 +1,7 @@
-# Obiettivi
-- Risolvere problemi concreti di backend, cybersecurity, integrità dei dati, algoritmi e affidabilità AI.
-- Pubblicare software, librerie, CLI, skill e MCP con licenze appropriate, documentazione e verifiche.
-- Sviluppare una community aperta a issue, proposte, pull request e peer review.
-- Ricercare un progetto collaborativo principale a partire da esigenze validate, senza imporre una tecnologia o un'idea prematura.
-- Migliorare i tre strumenti esistenti e la loro reperibilità senza dipendere dai social.
-- Imparare costruendo; rispettare tempo e priorità professionali. Nessuna scadenza artificiale.
+# Goals
+- Solve concrete problems in backend engineering, cybersecurity, data integrity, algorithms and AI reliability.
+- Publish software, libraries, CLIs, skills and MCP servers with appropriate licenses, documentation and verification.
+- Develop a community open to issues, proposals, pull requests and peer review.
+- Research a flagship collaborative project based on validated needs without prematurely choosing technology or ideas.
+- Improve the three existing tools and their discoverability without relying on social media.
+- Learn by building; respect available time and professional priorities. No artificial deadlines.
