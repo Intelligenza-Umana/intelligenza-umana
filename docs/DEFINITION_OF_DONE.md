@@ -1,10 +1,10 @@
 # Definition of Done
-- [ ] Problema, requisiti e impatto verificati
-- [ ] Codice compreso e decisioni motivate
-- [ ] Test positivi, negativi e regressioni pertinenti eseguiti
-- [ ] Sicurezza, privacy e integrità dati valutate
-- [ ] Evidenze riproducibili, limiti e rischi dichiarati
-- [ ] Peer review quando disponibile; assenza dichiarata
-- [ ] Licenze, documentazione, diff e link verificati
-- [ ] Fonti, registro, mappa e handoff coerenti
-- [ ] Nessuna pubblicazione o modifica non autorizzata
+- [ ] Problem, requirements and impact verified
+- [ ] Code understood and decisions justified
+- [ ] Relevant positive, negative and regression tests run
+- [ ] Security, privacy and data integrity assessed
+- [ ] Reproducible evidence, limitations and risks disclosed
+- [ ] Peer review when available; absence disclosed
+- [ ] Licenses, documentation, diffs and links verified
+- [ ] Sources, registry, map and handoff consistent
+- [ ] No unauthorized publication or changes
