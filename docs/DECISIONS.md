@@ -8,3 +8,5 @@
 2026-11-25 — Approvata impostazione Studio come piattaforma editoriale automatizzata: raccolta, filtro AI, approvazione umana, backlog e produzione multiformato. Sostenibilità individuale e frequenza non quotidiana. Stack, provider, tariffe, budget esatto e calendario restano proposte; nessuna spesa o implementazione autorizzata.
 
 2026-11-26 — Approvata rifondazione come laboratorio tecnologico open source e community tecnica, in sostituzione della priorità editoriale. Motivazione: utilità concreta, collaborazione e verifica umana/automatica. Organizzazione GitHub separata, nome del metodo e flagship restano proposte; nessun trasferimento autorizzato in questa fase.
+
+2026-11-26 — Pulizia approvata: ritirati 16 documenti editoriali, video, Studio e strategie social; conservati asset, inventario account e cronologia Git. Riallineati documenti operativi alla missione ingegneristica. Nessuna migrazione o pubblicazione esterna.
