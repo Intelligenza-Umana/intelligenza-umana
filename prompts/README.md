@@ -1,2 +1,2 @@
 # Prompt
-Versionare prompt riutilizzabili e criteri QA; distinguere proposte da prompt approvati. Consultare standard brand/editoriali prima dell'uso.
+Versionare istruzioni per ricerca, sviluppo e verifica tecnica. Gli output AI richiedono verifica umana e test. Il prompt logo resta riferimento del brand.
