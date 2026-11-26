@@ -12,3 +12,5 @@
 2026-11-26 — Approved cleanup: retired 16 editorial, video, Studio and social strategy documents; preserved assets, account inventory and Git history. Aligned operational documentation with engineering mission. No migration or external publication.
 
 2026-11-26 — Approved English as canonical project language for international participation. Retain Italian brand name and Italian manifesto translation; preserve historical session records. Website English-first, Italian optional. No change to technical mission or licensing.
+
+2026-11-26 — The founder created the [Intelligenza Umana GitHub organization](https://github.com/Intelligenza-Umana). Existing repositories stay under their current owners; no transfer is authorized by this decision. Organization profile and connection access remain to be configured.
