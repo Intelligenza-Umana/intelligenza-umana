@@ -1,26 +1,22 @@
-# Mappa documentale
-Consultare SOURCE_OF_TRUTH e CONTEXT_INTEGRITY. Indice dei documenti noti dopo la rifondazione; aggiornare quando cambia la struttura.
-| Percorso | Responsabilità |
+# Documentation map
+Consult SOURCE_OF_TRUTH and CONTEXT_INTEGRITY. Index of known documents; update when structure changes.
+| Path | Responsibility |
 |---|---|
-| README.md, MANIFESTO.md | Identità e filosofia |
-| AGENTS.md, CLAUDE.md | Istruzioni agenti |
-| HANDOFF.md, CHANGELOG.md, sessions/ | Stato e storico |
-| docs/VISION.md, GOALS.md, ROADMAP.md, DECISIONS.md | Strategia |
-| docs/GOVERNANCE.md, WORKFLOW.md, DEFINITION_OF_DONE.md, CONTEXT_INTEGRITY.md | Standard e verifica |
-| docs/ECOSYSTEM.md, PROJECT_REGISTRY.md, PROJECT_ONBOARDING.md | Progetti |
-| docs/SOURCE_OF_TRUTH.md, DOCUMENTATION_MAP.md | Autorità e indice |
-| brand/ | Logo, varianti e standard visivi |
-| community/ | Principi, contributi, condotta, onboarding, registro |
-| knowledge/ | Fonti, argomenti, ricerca |
-| lab/ | Esperimenti |
-| prompts/ | Prompt tecnici e riferimento logo |
-| website/README.md | Portale tecnico |
-| social/ACCOUNTS.md | Inventario storico account |
-| .gitignore | Esclusioni Git |
-
-Studio, editorial e strategie social ritirati; recuperabili nella cronologia Git.
-
-| CONTRIBUTING.md, SECURITY.md | Contributi e segnalazioni vulnerabilità |
-| docs/ENGINEERING_STANDARD.md | Standard tecnico e release |
-| lab/PROPOSAL_TEMPLATE.md | RFC e ricerca problemi |
-| .github/pull_request_template.md, .github/ISSUE_TEMPLATE/project-proposal.md | Template GitHub |
+| README.md, MANIFESTO.md, MANIFESTO.it.md | Identity, philosophy and Italian translation |
+| AGENTS.md, CLAUDE.md | Agent instructions |
+| HANDOFF.md, CHANGELOG.md, sessions/ | State and history |
+| docs/VISION.md, GOALS.md, ROADMAP.md, DECISIONS.md | Strategy |
+| docs/GOVERNANCE.md, WORKFLOW.md, DEFINITION_OF_DONE.md, CONTEXT_INTEGRITY.md, ENGINEERING_STANDARD.md | Engineering standards |
+| docs/ECOSYSTEM.md, PROJECT_REGISTRY.md, PROJECT_ONBOARDING.md | Projects |
+| docs/SOURCE_OF_TRUTH.md, DOCUMENTATION_MAP.md | Authority and index |
+| CONTRIBUTING.md, SECURITY.md | Contributions and vulnerability reporting |
+| .github/pull_request_template.md, .github/ISSUE_TEMPLATE/project-proposal.md | GitHub templates |
+| brand/ | Logo, variants and visual standards |
+| community/ | Principles, contributions, conduct, onboarding, registry |
+| knowledge/ | Sources, topics, research |
+| lab/ | Experiments and PROPOSAL_TEMPLATE.md |
+| prompts/ | Reusable prompts and logo reference |
+| website/README.md | Technical portal |
+| social/ACCOUNTS.md | Historical account inventory |
+| .gitignore | Git exclusions |
+Studio, editorial and social strategies retired; recoverable in Git history.
