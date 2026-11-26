@@ -1,7 +1,7 @@
 # Intelligenza Umana — Foundation v0.2.0
 *Human intelligence. Artificial assistance.*
 
-An independent open-source engineering and research initiative building secure, reliable, understandable and verifiable software through AI assistance and human accountability.
+An independent engineering and research initiative building secure, reliable, understandable and verifiable software through open-source collaboration, AI assistance and human accountability.
 
 Focus: backend engineering, cybersecurity, data integrity, algorithms, AI reliability, developer tools, skills and MCP. Frontend is supporting infrastructure, not the primary focus.
 
@@ -14,3 +14,6 @@ This foundation governs identity and standards; software lives in independent re
 
 ## Contact
 For general enquiries: [intelligenzaumana.lab@gmail.com](mailto:intelligenzaumana.lab@gmail.com). For vulnerability reports, see [SECURITY.md](SECURITY.md).
+
+## Status
+The foundation is public and licensed under the [MIT License](LICENSE). Software repositories have their own licenses and maturity; see the [project registry](docs/PROJECT_REGISTRY.md). The community is in preparation, and the registered tools have different maturity levels; their installation and platform compatibility still require verification.
