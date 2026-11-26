@@ -1,13 +1,13 @@
 # Intelligenza Umana — Foundation v0.2.0
 *Human intelligence. Artificial assistance.*
 
-Laboratorio tecnologico indipendente orientato all'open source, alla ricerca applicata e alla collaborazione nell'ingegneria del software. Costruiamo strumenti sicuri, affidabili, comprensibili e verificabili con assistenza AI e responsabilità umana.
+An independent open-source engineering and research initiative building secure, reliable, understandable and verifiable software through AI assistance and human accountability.
 
-Ambiti: backend, cybersecurity, integrità dei dati, algoritmi, affidabilità AI, developer tools, skill e MCP. Il frontend è strumentale, non il focus.
+Focus: backend engineering, cybersecurity, data integrity, algorithms, AI reliability, developer tools, skills and MCP. Frontend is supporting infrastructure, not the primary focus.
 
-Questa repository madre governa identità e standard; i software vivono in repository indipendenti. La community è un obiettivo, non una realtà già attiva.
+This foundation governs identity and standards; software lives in independent repositories. The community is an objective, not yet operational.
 
-[Manifesto](MANIFESTO.md) · [Obiettivi](docs/GOALS.md) · [Roadmap](docs/ROADMAP.md) · [Governance](docs/GOVERNANCE.md) · [Registro](docs/PROJECT_REGISTRY.md) · [Mappa](docs/DOCUMENTATION_MAP.md) · [Fonti](docs/SOURCE_OF_TRUTH.md) · [Handoff](HANDOFF.md) · [AGENTS](AGENTS.md) · [Community](community/README.md).
+[Manifesto](MANIFESTO.md) · [Italian manifesto](MANIFESTO.it.md) · [Goals](docs/GOALS.md) · [Roadmap](docs/ROADMAP.md) · [Governance](docs/GOVERNANCE.md) · [Registry](docs/PROJECT_REGISTRY.md) · [Documentation map](docs/DOCUMENTATION_MAP.md) · [Sources of truth](docs/SOURCE_OF_TRUTH.md) · [Handoff](HANDOFF.md) · [Agents](AGENTS.md) · [Community](community/README.md).
 
 ## Engineering and contributions
 [Engineering standard](docs/ENGINEERING_STANDARD.md) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md) · [Project proposals](lab/PROPOSAL_TEMPLATE.md).
