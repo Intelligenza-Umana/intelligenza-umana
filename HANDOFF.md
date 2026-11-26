@@ -1,6 +1,6 @@
 # Handoff — 2026-11-26
 ## Stato corrente
-Foundation v0.2.0: laboratorio open source, ricerca applicata e community tecnica. Tre strumenti registrati; flagship da definire. Community non operativa, organizzazione GitHub non creata. Logo 02 e asset preservati. Sito satellite in bozza; stato deploy precedente non riverificato.
+Foundation v0.2.0: laboratorio open source, ricerca applicata e community tecnica. Tre strumenti registrati; flagship da definire. Community non operativa, organizzazione GitHub non creata. Logo 02 e asset preservati. Sito satellite: bozza «Sito in costruzione» online in produzione su Vercel da `main` (https://intelligenza-umana-web.vercel.app, risposta 200 verificata il 2026-11-25); dominio non collegato; contenuto da riallineare alla direzione v0.2.0.
 ## Decisioni
 GitHub unica fonte; repository indipendenti; sicurezza, integrità dati, backend, algoritmi e AI affidabile; revisione umana e controlli riproducibili. Strategia editoriale ritirata; storico recuperabile in Git e DECISIONS/CHANGELOG.
 ## Verifiche e limiti
