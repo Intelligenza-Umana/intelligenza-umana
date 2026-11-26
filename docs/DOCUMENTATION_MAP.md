@@ -19,3 +19,8 @@ Consultare SOURCE_OF_TRUTH e CONTEXT_INTEGRITY. Indice dei documenti noti dopo l
 | .gitignore | Esclusioni Git |
 
 Studio, editorial e strategie social ritirati; recuperabili nella cronologia Git.
+
+| CONTRIBUTING.md, SECURITY.md | Contributi e segnalazioni vulnerabilità |
+| docs/ENGINEERING_STANDARD.md | Standard tecnico e release |
+| lab/PROPOSAL_TEMPLATE.md | RFC e ricerca problemi |
+| .github/pull_request_template.md, .github/ISSUE_TEMPLATE/project-proposal.md | Template GitHub |
