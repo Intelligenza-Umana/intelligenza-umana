@@ -1,2 +1,2 @@
-# Base di conoscenza
-Raccogliere fonti, ricerca, appunti e risultati verificabili. Distinguere fatti, ipotesi e opinioni. Ogni nota indica data, autore/fonte, URL o DOI, limiti e collegamenti ai contenuti. Non copiare opere integrali senza diritti.
+# Knowledge base
+Collect sources, research, notes and verifiable results. Distinguish facts, hypotheses and opinions. Each note records date, author/source, URL or DOI, limitations and related material. Do not reproduce entire works without rights.
