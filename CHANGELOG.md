@@ -21,3 +21,6 @@ Creata nel satellite intelligenza-umana-web la bozza Angular statica «Sito in c
 Nuova missione open source, manifesto ingegneristico, governance, roadmap e registro dei tre strumenti esistenti; strategia editoriale sospesa.
 
 2026-11-26 — Pulizia approvata: ritirati 16 documenti editoriali, video, Studio e strategie social; conservati asset, inventario account e cronologia Git. Riallineati documenti operativi alla missione ingegneristica. Nessuna migrazione o pubblicazione esterna.
+
+### Open source readiness
+Aggiunti standard ingegneristico, policy sicurezza, guida contributi, template RFC, issue e PR.
