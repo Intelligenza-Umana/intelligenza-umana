@@ -6,3 +6,5 @@
 2026-11-25 — Revisione approvata: avvio individuale, priorità alla produzione di valore e al pubblico. Sospesi nucleo fondatore, reclutamento e gruppo WhatsApp; struttura community conservata per il futuro. Motivo: manca ancora un'offerta concreta per i partecipanti. Inviti limitati a seguire e dare feedback facoltativo.
 
 2026-11-25 — Approvata impostazione Studio come piattaforma editoriale automatizzata: raccolta, filtro AI, approvazione umana, backlog e produzione multiformato. Sostenibilità individuale e frequenza non quotidiana. Stack, provider, tariffe, budget esatto e calendario restano proposte; nessuna spesa o implementazione autorizzata.
+
+2026-11-26 — Approvata rifondazione come laboratorio tecnologico open source e community tecnica, in sostituzione della priorità editoriale. Motivazione: utilità concreta, collaborazione e verifica umana/automatica. Organizzazione GitHub separata, nome del metodo e flagship restano proposte; nessun trasferimento autorizzato in questa fase.
