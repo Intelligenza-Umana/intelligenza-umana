@@ -1,9 +1,9 @@
 # Roadmap
-- Foundation: consolidare governance e standard, verificare inventario e link.
-- Extensions: verificare installazione, test, licenze, documentazione inglese e release dei tre strumenti.
-- Open source readiness: CONTRIBUTING, condotta, SECURITY, criteri PR, CI e issue; valutare organizzazione GitHub separata.
-- Research: problemi reali, alternative, lacune, RFC e prototipi verificabili.
-- Flagship: scegliere problema validato, delimitare MVP e aprire contributi modulari.
-- Community: collaborazione graduale secondo interesse e capacità di manutenzione.
-- Web: catalogo, documentazione, release e contributi.
-Nessuna scadenza artificiale o obbligo social. Strategia editoriale ritirata; storico in Git.
+- Foundation: consolidate governance and standards; verify inventory and links.
+- Extensions: verify installation, tests, licenses, English documentation and releases for all three tools.
+- Open-source readiness: CONTRIBUTING, conduct, SECURITY, PR criteria, CI and issues; evaluate a separate GitHub organization.
+- Research: real problems, alternatives, gaps, RFCs and verifiable prototypes.
+- Flagship: select a validated problem, scope an MVP and enable modular contributions.
+- Community: gradual collaboration based on interest and maintenance capacity.
+- Web: catalog, documentation, releases and contributions.
+No artificial deadlines or social media obligations. Editorial strategy retired; history remains in Git.
