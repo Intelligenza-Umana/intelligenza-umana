@@ -8,3 +8,6 @@ Ambiti: backend, cybersecurity, integrità dei dati, algoritmi, affidabilità AI
 Questa repository madre governa identità e standard; i software vivono in repository indipendenti. La community è un obiettivo, non una realtà già attiva.
 
 [Manifesto](MANIFESTO.md) · [Obiettivi](docs/GOALS.md) · [Roadmap](docs/ROADMAP.md) · [Governance](docs/GOVERNANCE.md) · [Registro](docs/PROJECT_REGISTRY.md) · [Mappa](docs/DOCUMENTATION_MAP.md) · [Fonti](docs/SOURCE_OF_TRUTH.md) · [Handoff](HANDOFF.md) · [AGENTS](AGENTS.md) · [Community](community/README.md).
+
+## Engineering and contributions
+[Engineering standard](docs/ENGINEERING_STANDARD.md) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md) · [Project proposals](lab/PROPOSAL_TEMPLATE.md).
