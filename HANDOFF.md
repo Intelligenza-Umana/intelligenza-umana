@@ -11,7 +11,7 @@ Engineering standard, CONTRIBUTING, SECURITY, RFC and GitHub issue/PR templates 
 - Project Lifecycle Skill: README, SKILL and Claude/Codex integrations read. Prototype v0.2.0; MIT license added in f9c0774. Native installation and real integration tests remain unverified.
 ## Next steps
 1. Verify mailbox reply delivery and ongoing monitoring; check reporting channels in each project.
-2. The founder created the GitHub organization. Its public API reports zero public repositories; the current GitHub connection cannot read organization membership (403). The founder has been asked to create a public `.github` repository for the profile and enable access if needed. Check URL, CI, marketplace and deployment impact before transfers.
+2. The founder created the GitHub organization. The public `.github` repository exists. A write attempt to `profile/README.md` was rejected with HTTP 403 (resource not accessible by integration); the prepared profile awaits repository access. Check URL, CI, marketplace and deployment impact before transfers.
 3. Verify Project Lifecycle packaging, native installation and integration tests.
 4. Consolidate tools: reconcile manifest 1.0.0 with GitHub releases v0.2.2 (Learning Ledger) and v0.2.0 (Spring Security Advisor), verify installation and release policy, and verify each project security reporting channel.
 5. Design shared marketplace with independent repositories and versions; verify official format and installation. Discussed commands are illustrative.
