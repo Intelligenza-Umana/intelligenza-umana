@@ -16,3 +16,5 @@
 2026-11-26 — The founder created the [Intelligenza Umana GitHub organization](https://github.com/Intelligenza-Umana). Existing repositories stay under their current owners; no transfer is authorized by this decision. Organization profile and connection access remain to be configured.
 
 2026-11-26 — The founder asked for the motivation text to be written in the first person. `docs/MOTIVATION.md` and its Italian original `docs/MOTIVAZIONE.it.md` were aligned; meaning unchanged. The first-person text is also shown on the public website and the founder's portfolio.
+
+2026-11-26 — The founder asked that the project be referred to as "Model Router" in running text. The repository name `iu-model-router` and its URLs keep the IU prefix and are unchanged. Not changed here: the project's own repository, which is not part of this change.
