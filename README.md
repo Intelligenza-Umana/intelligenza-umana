@@ -1,6 +1,10 @@
-# Intelligenza Umana — Foundation v0.1.0
-Progetto italiano indipendente di divulgazione, formazione e sperimentazione su AI, scienza, tecnologia, programmazione e pensiero critico. Questa repository madre è il centro di governance e conoscenza, non un monorepo software.
+# Intelligenza Umana — Foundation v0.2.0
+*Human intelligence. Artificial assistance.*
 
-Inizia da [Manifesto](MANIFESTO.md), [obiettivi](docs/GOALS.md), [roadmap](docs/ROADMAP.md), [governance](docs/GOVERNANCE.md), [mappa documentale](docs/DOCUMENTATION_MAP.md), [fonti di verità](docs/SOURCE_OF_TRUTH.md) e [handoff](HANDOFF.md). Agenti: [AGENTS](AGENTS.md). Progetti: [registro](docs/PROJECT_REGISTRY.md).
+Laboratorio tecnologico indipendente orientato all'open source, alla ricerca applicata e alla collaborazione nell'ingegneria del software. Costruiamo strumenti sicuri, affidabili, comprensibili e verificabili con assistenza AI e responsabilità umana.
 
-Community (predisposta, non attiva): [partecipazione e inizializzazione](community/README.md).
+Ambiti: backend, cybersecurity, integrità dei dati, algoritmi, affidabilità AI, developer tools, skill e MCP. Il frontend è strumentale, non il focus.
+
+Questa repository madre governa identità e standard; i software vivono in repository indipendenti. La community è un obiettivo, non una realtà già attiva.
+
+[Manifesto](MANIFESTO.md) · [Obiettivi](docs/GOALS.md) · [Roadmap](docs/ROADMAP.md) · [Governance](docs/GOVERNANCE.md) · [Registro](docs/PROJECT_REGISTRY.md) · [Mappa](docs/DOCUMENTATION_MAP.md) · [Fonti](docs/SOURCE_OF_TRUTH.md) · [Handoff](HANDOFF.md) · [AGENTS](AGENTS.md) · [Community](community/README.md).
