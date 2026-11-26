@@ -14,3 +14,5 @@
 2026-11-26 — Approved English as canonical project language for international participation. Retain Italian brand name and Italian manifesto translation; preserve historical session records. Website English-first, Italian optional. No change to technical mission or licensing.
 
 2026-11-26 — The founder created the [Intelligenza Umana GitHub organization](https://github.com/Intelligenza-Umana). Existing repositories stay under their current owners; no transfer is authorized by this decision. Organization profile and connection access remain to be configured.
+
+2026-11-26 — The founder asked for the motivation text to be written in the first person. `docs/MOTIVATION.md` and its Italian original `docs/MOTIVAZIONE.it.md` were aligned; meaning unchanged. The first-person text is also shown on the public website and the founder's portfolio.
