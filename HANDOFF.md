@@ -18,3 +18,6 @@ Engineering standard, CONTRIBUTING, SECURITY, RFC and GitHub issue/PR templates 
 6. Align website and portfolio; research flagship problem with evidence and RFC.
 ## Verification limits
 Foundation tree enumerated at 765c1de: 54 files, including 46 Markdown files; checked Markdown relative link paths exist. Anchors and public website deployment not verified. The project registry now records the foundation repository as public; the foundation now carries an MIT license. Project Lifecycle tests and installs, product installation compatibility and repository transfers remain unverified. Both production deployments reached READY; mobile rendering is not yet verified. Organization and marketplace not created. Method name and slogan provisional. No artificial deadlines.
+
+## Project identity
+Official project READMEs use the label “An Intelligenza Umana project” and link to the foundation and canonical project registry. The label is descriptive and not a cryptographic signature. Publicly verifiable release signing or provenance remains to be researched and designed; no key or signing workflow has been created.

@@ -7,3 +7,6 @@
 | [spring-security-advisor](https://github.com/fabiozagaria/spring-security-advisor) | Spring Security audit | Public, MIT |
 | [project-lifecycle-skill](https://github.com/fabiozagaria/project-lifecycle-skill) | Project context governance | Public prototype v0.2.0, MIT |
 Existing founder projects intended for integration; no transfers. Initial owner: founder. Learning Ledger and Spring Security Advisor passed local Python 3.12 tests and main CI; installation and platform compatibility remain unverified. Flagship undefined.
+
+## Verify a project
+This registry lists the canonical repositories currently associated with Intelligenza Umana. Compare the owner and repository URL with the entry above; a copied name, logo or README label alone does not establish authenticity. Release signatures and provenance attestations are not yet configured.
