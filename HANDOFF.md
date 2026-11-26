@@ -7,3 +7,6 @@ GitHub unica fonte; repository indipendenti; sicurezza, integrità dati, backend
 Aggiornate fonti centrali, visione, workflow, community, portale, knowledge e mappa; eliminati 16 documenti editoriali/social/studio. Inventario basato sulla mappa precedente e lettura dei documenti noti, non su enumerazione completa del tree (non disponibile). Nessun test software pertinente; nessun test dei plugin, trasferimento o deploy eseguito. Audit completo link/tree ancora da effettuare.
 ## Prossimi passi
 Verificare licenza e installazione Project Lifecycle, test e distribuzione dei plugin, definire canale sicurezza e standard contributi pubblici, valutare organizzazione GitHub, riallineare sito e ricercare flagship.
+
+## Open source readiness
+Creati standard ingegneristico, CONTRIBUTING, SECURITY, RFC e template GitHub per issue e PR; aggiornati indice e fonti. Policy di sicurezza provvisoria: canale privato da verificare per ciascun progetto; nessuna SLA. Nessuna modifica ai satelliti, nessuna organizzazione creata, nessun test software. Prossimo passo: audit plugin e verifica canali di distribuzione.
