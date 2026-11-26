@@ -1,2 +1,2 @@
-# Ecosistema
-Foundation: governance e standard comuni. Extensions: Learning Ledger, Spring Security Advisor, Project Lifecycle Skill, registrati nel PROJECT_REGISTRY. Software: librerie, CLI, servizi e strumenti indipendenti. Research: esperimenti, benchmark e proposte. Community: issue, PR e peer review. Web: catalogo e documentazione. Flagship da individuare mediante ricerca. Organizzazione GitHub separata ancora da creare; nessuna migrazione eseguita.
+# Ecosystem
+Foundation: governance and shared standards. Extensions: Learning Ledger, Spring Security Advisor and Project Lifecycle Skill, listed in PROJECT_REGISTRY. Software: independent libraries, CLIs, services and tools. Research: experiments, benchmarks and proposals. Community: issues, PRs and peer review. Web: catalog and documentation. Flagship to be identified through research. Separate GitHub organization not yet created; no migration performed.
