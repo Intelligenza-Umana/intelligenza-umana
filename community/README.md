@@ -1,3 +1,3 @@
-# Community IU
-Community tecnica open source in preparazione, non ancora operativa. Collaborazione tramite issue, RFC, pull request e peer review. Apertura graduale secondo utilità dei progetti e capacità di manutenzione. Nessun requisito di seniority; comprensione, evidenze e rispetto obbligatori. Nessuna associazione giuridica o rapporto di lavoro.
-[Principi](PRINCIPLES.md) · [Partecipazione](CONTRIBUTING.md) · [Condotta](CODE_OF_CONDUCT.md) · [Onboarding](ONBOARDING.md) · [Registro](MEMBERS.md).
+# IU Community
+Technical open-source community in preparation, not yet operational. Collaboration through issues, RFCs, pull requests and peer review. Open gradually according to project utility and maintenance capacity. No seniority requirement; understanding, evidence and respect are mandatory. No legal association or employment relationship.
+[Principles](PRINCIPLES.md) · [Contributing](CONTRIBUTING.md) · [Conduct](CODE_OF_CONDUCT.md) · [Onboarding](ONBOARDING.md) · [Registry](MEMBERS.md).
