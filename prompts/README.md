@@ -1,2 +1,2 @@
-# Prompt
-Versionare istruzioni per ricerca, sviluppo e verifica tecnica. Gli output AI richiedono verifica umana e test. Il prompt logo resta riferimento del brand.
+# Prompts
+Version reusable instructions for research, development and technical verification. AI outputs require human review and testing. The logo prompt remains a brand reference.
