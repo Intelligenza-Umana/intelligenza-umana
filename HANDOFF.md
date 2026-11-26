@@ -1,6 +1,6 @@
 # Handoff — 2026-11-26
 ## Current state
-Foundation v0.2.0: open-source engineering lab, applied research and technical community. Three existing tools registered; flagship undefined. Community not operational; GitHub organization not created. Logo 02 and assets preserved. Website and portfolio updated for the new mission. Website commit a348b39 reached Vercel READY in production; portfolio commit 6ca2ac1 was building at the last check.
+Foundation v0.2.0: open-source engineering lab, applied research and technical community. Three existing tools registered; flagship undefined. Community not operational; GitHub organization not created. Logo 02 and assets preserved. Website and portfolio updated for the new mission. Website commit a348b39 reached Vercel READY in production; portfolio commit 6ca2ac1 reached Vercel READY in production.
 ## Decisions
 GitHub sole source; independent repositories; security, data integrity, backend, algorithms and reliable AI; human review and reproducible checks. Editorial strategy retired (16 files removed); history in Git. English is canonical for active documentation, code comments, commits, issues and PRs; Italian manifesto retained. Historical sessions may remain Italian.
 ## Open-source readiness
@@ -17,4 +17,4 @@ Engineering standard, CONTRIBUTING, SECURITY, RFC and GitHub issue/PR templates 
 5. Design shared marketplace with independent repositories and versions; verify official format and installation. Discussed commands are illustrative.
 6. Align website and portfolio; research flagship problem with evidence and RFC.
 ## Verification limits
-Foundation tree enumerated at 765c1de: 54 files, including 46 Markdown files; checked Markdown relative link paths exist. Anchors and public website deployment not verified. The project registry now records the foundation repository as public; the foundation now carries an MIT license. Project Lifecycle tests and installs, product installation compatibility and repository transfers remain unverified. Portfolio deployment was still building at the last check. Organization and marketplace not created. Method name and slogan provisional. No artificial deadlines.
+Foundation tree enumerated at 765c1de: 54 files, including 46 Markdown files; checked Markdown relative link paths exist. Anchors and public website deployment not verified. The project registry now records the foundation repository as public; the foundation now carries an MIT license. Project Lifecycle tests and installs, product installation compatibility and repository transfers remain unverified. Both production deployments reached READY; mobile rendering is not yet verified. Organization and marketplace not created. Method name and slogan provisional. No artificial deadlines.
