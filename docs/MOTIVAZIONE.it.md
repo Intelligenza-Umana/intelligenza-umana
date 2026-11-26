@@ -8,4 +8,6 @@ Con il tempo è emersa una verità scomoda. Un modello linguistico non sa nel se
 
 Nel software questo vale ancora di più. Programmare, nel suo senso più profondo, è ragionare: scomporre un problema, scegliere un'idea tra le molte possibili, trasformarla in bit e algoritmi, scrivere un codice che un altro essere umano possa leggere e capire. Il codice si può generare, ma comprenderlo e verificarlo resta un atto umano. Un programma che nessuno capisce è un programma che nessuno può davvero governare.
 
+Il progetto nasce concretamente da un desiderio: diffondere l'idea che si possa generare codice con l'intelligenza artificiale, ma con revisione e consapevolezza.
+
 Intelligenza Umana nasce da questa convinzione: l'intelligenza artificiale può amplificare il pensiero, ma il pensiero deve restare umano.
