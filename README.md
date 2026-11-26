@@ -11,3 +11,6 @@ This foundation governs identity and standards; software lives in independent re
 
 ## Engineering and contributions
 [Engineering standard](docs/ENGINEERING_STANDARD.md) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md) · [Project proposals](lab/PROPOSAL_TEMPLATE.md).
+
+## Contact
+For general enquiries: [intelligenzaumana.lab@gmail.com](mailto:intelligenzaumana.lab@gmail.com). For vulnerability reports, see [SECURITY.md](SECURITY.md).
