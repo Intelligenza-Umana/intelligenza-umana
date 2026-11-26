@@ -1,6 +1,6 @@
 # Handoff — 2026-11-26
 ## Current state
-Foundation v0.2.0: open-source engineering lab, applied research and technical community. Three existing tools registered; flagship undefined. Community not operational; GitHub organization not created. Logo 02 and assets preserved. Website and portfolio updated for the new mission. Website commit a348b39 reached Vercel READY in production; portfolio commit 6ca2ac1 reached Vercel READY in production.
+Foundation v0.2.0: open-source engineering lab, applied research and technical community. Three existing tools registered; flagship undefined. Community not operational; GitHub organization not created. Logo 02 and assets preserved. Website and portfolio updated for the new mission. Website commit a348b39 reached Vercel READY in production; a subsequent licensing correction was pushed as 459fe0c and its deployment must be verified; portfolio commit 6ca2ac1 reached Vercel READY in production.
 ## Decisions
 GitHub sole source; independent repositories; security, data integrity, backend, algorithms and reliable AI; human review and reproducible checks. Editorial strategy retired (16 files removed); history in Git. English is canonical for active documentation, code comments, commits, issues and PRs; Italian manifesto retained. Historical sessions may remain Italian.
 ## Open-source readiness
@@ -8,11 +8,11 @@ Engineering standard, CONTRIBUTING, SECURITY, RFC and GitHub issue/PR templates 
 ## Product audit
 - Learning Ledger: README, MIT LICENSE, marketplace and plugin 1.0.0 manifests, CONTRIBUTING and Python 3.11–3.13 CI workflow verified. Seven skills declared; deterministic local ledger. At 0c733aa: 45 tests pass locally on Python 3.12; main CI passed. Latest GitHub release v0.2.2; manifest declares 1.0.0. Installation and compatibility unverified.
 - Spring Security Advisor: README, MIT LICENSE, marketplace and plugin 1.0.0 manifests, Python 3.11–3.13 CI workflow verified. README declares 23 rules and 31 contextual checks; standalone scanner. CONTRIBUTING missing (404). At ea7ed69: 124 tests pass locally on Python 3.12; main CI passed. Latest GitHub release v0.2.0; manifest declares 1.0.0. Coverage, false positives and installation remain unverified.
-- Project Lifecycle Skill: README, SKILL and Claude/Codex integrations read. Prototype v0.2.0; LICENSE missing (404); native installation and real tests unverified. Do not call it open source until explicitly licensed.
+- Project Lifecycle Skill: README, SKILL and Claude/Codex integrations read. Prototype v0.2.0; MIT license added in f9c0774. Native installation and real integration tests remain unverified.
 ## Next steps
 1. Verify mailbox delivery and receipt; check reporting channels in each project.
 2. Evaluate name availability and create GitHub organization with explicit approval; check URL, CI, marketplace and deployment impact before transfers.
-3. Agree Project Lifecycle license; verify packaging and native tests.
+3. Verify Project Lifecycle packaging, native installation and integration tests.
 4. Consolidate tools: reconcile manifest 1.0.0 with GitHub releases v0.2.2 (Learning Ledger) and v0.2.0 (Spring Security Advisor), verify installation and release policy, add missing CONTRIBUTING and security policies.
 5. Design shared marketplace with independent repositories and versions; verify official format and installation. Discussed commands are illustrative.
 6. Align website and portfolio; research flagship problem with evidence and RFC.
