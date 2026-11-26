@@ -1,6 +1,6 @@
 # Handoff — 2026-11-26
 ## Current state
-Foundation v0.2.0: open-source engineering lab, applied research and technical community. Three existing tools registered; flagship undefined. Foundation open to contributions and maintained by the founder; no additional maintainers confirmed. GitHub organization not created. Logo 02 and assets preserved. Website and portfolio updated for the new mission. Website commit a348b39 reached Vercel READY in production; a subsequent licensing correction 459fe0c also reached READY; portfolio commit 6ca2ac1 reached Vercel READY in production.
+Foundation v0.2.0: open-source engineering lab, applied research and technical community. Three existing tools registered; flagship undefined. Foundation open to contributions and maintained by the founder; no additional maintainers confirmed. GitHub organization not created. Logo 02 and assets preserved. Website and portfolio updated for the new mission. Website commit 578dbe3 and portfolio commit eb448ac reached Vercel READY in production after opening the foundation to contributions.
 ## Decisions
 GitHub sole source; independent repositories; security, data integrity, backend, algorithms and reliable AI; human review and reproducible checks. Editorial strategy retired (16 files removed); history in Git. English is canonical for active documentation, code comments, commits, issues and PRs; Italian manifesto retained. Historical sessions may remain Italian.
 ## Open-source readiness
