@@ -1,16 +1,18 @@
 # Manifesto
-Intelligenza Umana nasce per risolvere problemi reali dell'ingegneria del software attraverso ricerca, sviluppo open source e collaborazione. L'AI amplifica le capacità umane, non sostituisce comprensione, giudizio e responsabilità.
+Intelligenza Umana exists to solve real software engineering problems through research, open-source development and collaboration. AI amplifies human capabilities; it does not replace understanding, judgment or accountability.
 
-## Principi
-1. Comprensione prima dell'automazione.
-2. Decisioni motivate e affermazioni sostenute da evidenze.
-3. Sicurezza, integrità dei dati e affidabilità come requisiti fondamentali.
-4. Codice verificato indipendentemente dalla sua origine.
-5. Test riproducibili e controlli deterministici, affiancati da revisione umana.
-6. Limiti e incertezze dichiarati; nessuna promessa di sicurezza assoluta.
-7. Conoscenza aperta, collaborazione e rispetto.
-8. Apprendimento continuo: nessuna esclusione basata sulla seniority.
-9. Utilità prima della popolarità.
-10. Responsabilità tecnica umana.
+## Principles
+1. Understanding before automation.
+2. Reasoned decisions and evidence-backed claims.
+3. Security, data integrity and reliability as fundamental requirements.
+4. Code verification regardless of origin.
+5. Reproducible tests and deterministic checks alongside human review.
+6. Explicit limitations and uncertainty; no promises of absolute security.
+7. Open knowledge, collaboration and respect.
+8. Continuous learning; no exclusion based on seniority.
+9. Utility before popularity.
+10. Human technical accountability.
 
-L'AI può assistere ricerca, progettazione e implementazione. Un contributo non compreso o non verificato non è pronto per essere integrato. La prototipazione rapida è ammessa, ma non sostituisce la verifica.
+AI may assist research, design and implementation. Contributions that are not understood or verified are not ready to merge. Rapid prototyping is welcome but does not replace verification.
+
+[Italian translation](MANIFESTO.it.md).
