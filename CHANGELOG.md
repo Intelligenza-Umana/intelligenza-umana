@@ -16,3 +16,6 @@ Esteso Studio a ricerca, screening AI, backlog umano, contenuti multiformato e n
 
 ### Sito web in costruzione — 2026-11-25
 Creata nel satellite intelligenza-umana-web la bozza Angular statica «Sito in costruzione» con logo 02 e favicon; registrato il satellite; deploy Vercel eseguito.
+
+## 0.2.0 — 2026-11-26
+Nuova missione open source, manifesto ingegneristico, governance, roadmap e registro dei tre strumenti esistenti; strategia editoriale sospesa.
