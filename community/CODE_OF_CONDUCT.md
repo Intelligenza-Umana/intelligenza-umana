@@ -1,2 +1,2 @@
-# Condotta
-Criticare idee, non persone. Argomentare, verificare fonti, riconoscere errori e incertezze. Niente molestie, discriminazioni, minacce, pressioni, divulgazione di dati altrui o spam. Rispettare riservatezza e consenso. Segnalare problemi al fondatore, che ascolta le parti e può limitare accessi per tutelare il gruppo; evitare umiliazioni pubbliche. Chiunque può lasciare liberamente.
+# Code of conduct
+Critique ideas, not people. Reason, verify sources and acknowledge mistakes and uncertainty. No harassment, discrimination, threats, pressure, disclosure of others' data or spam. Respect privacy and consent. Report concerns to the founder, who hears parties and may restrict access to protect the community; avoid public humiliation. Anyone may leave freely.
