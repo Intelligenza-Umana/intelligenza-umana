@@ -30,3 +30,6 @@ Applicata la Project Lifecycle Skill v0.2.0 (bootstrap conservativo, approvato d
 
 ## Deploy Vercel iu-web
 Progetto Vercel `intelligenza-umana-web` creato nel team javametalcoders-projects e collegato al repository GitHub; deploy dalla branch di sessione (commit 42d5238), stato Ready, https://intelligenza-umana-web.vercel.app verificato con 200 su pagina, favicon e logo. `main` del satellite contiene ancora solo il README: serve unire la PR perché i push su main pubblichino la pagina. Dominio non collegato. Aggiornati registro e handoff; ecosistema, roadmap, decisioni invariati.
+
+## 2026-11-26 — Foundation v0.2.0 (direzione corrente, prevale sullo storico)
+Rifondazione approvata: laboratorio open source, sicurezza/backend/integrità dati/algoritmi/AI verificabile, community tecnica. Sospesa pipeline editoriale. Tre strumenti esistenti registrati; flagship da ricercare. Prossimi passi: audit documentale residuo, readiness dei plugin, proposta organizzazione GitHub e riallineamento sito. Nessun trasferimento, pubblicazione o test software effettuato. Logo e storico preservati.
