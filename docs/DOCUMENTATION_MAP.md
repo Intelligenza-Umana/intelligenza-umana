@@ -14,6 +14,7 @@ Consult SOURCE_OF_TRUTH and CONTEXT_INTEGRITY. Index of known documents; update 
 | brand/ | Logo, variants and visual standards |
 | community/ | Principles, contributions, conduct, onboarding, registry |
 | knowledge/ | Sources, topics, research |
+| ideas/ | Uncommitted future ideas, index and template |
 | lab/ | Experiments and PROPOSAL_TEMPLATE.md |
 | prompts/ | Reusable prompts and logo reference |
 | website/README.md | Technical portal |
