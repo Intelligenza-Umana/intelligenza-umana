@@ -27,3 +27,6 @@ On 2026-11-26 the canonical repository URLs for the then-registered products wer
 
 ## Organization alignment — 2026-11-27
 Canonical project links now point to Intelligenza-Umana. The website repository is public; the marketplace is registered. Founder reports that the first additional community member has joined; membership and maintainer permissions have not been independently checked. Previous test and deployment results are historical evidence, not verification of current HEAD. Current CI, production deployment and live plugin installation require fresh checks.
+
+## 2026-11-27 — Membership requests (proposed change)
+Added an optional public membership request template and a private email alternative; no automatic admission, no mandatory membership and no changes to access permissions. Owners may also invite contributors directly. Website CTA is prepared separately. Verify the form after merge; no invitation sent by this change. Existing open documentation PRs may require reconciliation of this handoff.
