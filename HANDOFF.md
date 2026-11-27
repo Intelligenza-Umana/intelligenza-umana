@@ -34,3 +34,6 @@ The official server invite is https://discord.gg/fMRBCNgHb. It is linked from th
 
 ## 2026-11-27 — Membership requests (proposed change)
 Added an optional public membership request template and a private email alternative; no automatic admission, no mandatory membership and no changes to access permissions. Owners may also invite contributors directly. Website CTA is prepared separately. Verify the form after merge; no invitation sent by this change. Existing open documentation PRs may require reconciliation of this handoff.
+
+## 2026-11-27 — Future ideas
+Created a non-binding ideas register with an index and reusable template, linked from the foundation README, roadmap, documentation map and sources of truth. IU-IDEA-001 records deferred membership invitation automation, approval safeguards, alternatives and revisit criteria. Manual invitations remain the current process. No executable workflow, credentials, permissions or invitation behavior changed. Documentation-only change; no runtime tests apply. Existing open PRs may require documentation reconciliation.

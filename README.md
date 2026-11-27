@@ -7,7 +7,7 @@ Focus: backend engineering, cybersecurity, data integrity, algorithms, AI reliab
 
 This foundation governs identity and standards; software lives in independent repositories. The [Intelligenza Umana GitHub organization](https://github.com/Intelligenza-Umana) has been created; the project repositories are hosted under the organization. Issues and pull requests are open; the founder maintains the foundation as capacity allows.
 
-[Manifesto](MANIFESTO.md) · [Italian manifesto](MANIFESTO.it.md) · [Goals](docs/GOALS.md) · [Roadmap](docs/ROADMAP.md) · [Governance](docs/GOVERNANCE.md) · [Registry](docs/PROJECT_REGISTRY.md) · [Documentation map](docs/DOCUMENTATION_MAP.md) · [Sources of truth](docs/SOURCE_OF_TRUTH.md) · [Handoff](HANDOFF.md) · [Agents](AGENTS.md) · [Community](community/README.md).
+[Manifesto](MANIFESTO.md) · [Italian manifesto](MANIFESTO.it.md) · [Goals](docs/GOALS.md) · [Roadmap](docs/ROADMAP.md) · [Future ideas](ideas/README.md) · [Governance](docs/GOVERNANCE.md) · [Registry](docs/PROJECT_REGISTRY.md) · [Documentation map](docs/DOCUMENTATION_MAP.md) · [Sources of truth](docs/SOURCE_OF_TRUTH.md) · [Handoff](HANDOFF.md) · [Agents](AGENTS.md) · [Community](community/README.md).
 
 ## Engineering and contributions
 [Engineering standard](docs/ENGINEERING_STANDARD.md) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md) · [Project proposals](lab/PROPOSAL_TEMPLATE.md).

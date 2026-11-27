@@ -7,3 +7,5 @@
 - Community: gradual collaboration based on interest and maintenance capacity.
 - Web: catalog, documentation, releases and contributions.
 No artificial deadlines or social media obligations. Editorial strategy retired; history remains in Git.
+
+Uncommitted proposals and deferred ideas are recorded separately in [Future ideas](../ideas/README.md). Inclusion does not create a roadmap commitment.
