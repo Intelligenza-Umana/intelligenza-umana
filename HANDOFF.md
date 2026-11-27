@@ -30,7 +30,7 @@ Canonical project links now point to Intelligenza-Umana. The website repository 
 
 ## Discord community invitation — 2026-11-27
 
-The official server invite is https://discord.gg/fMRBCNgHb. It is linked from the foundation README, community README, organization profile, website, portfolio and Discord bot repository README. The official Discord symbol is used unmodified on the website and portfolio; source attribution is recorded in those repositories.
+The official server invite is https://discord.gg/uP3D3ybbmT. It is linked from the foundation README, community README, organization profile, website, portfolio and Discord bot repository README. The official Discord symbol is used unmodified on the website and portfolio; source attribution is recorded in those repositories.
 
 ## 2026-11-27 — Membership requests (proposed change)
 Added an optional public membership request template and a private email alternative; no automatic admission, no mandatory membership and no changes to access permissions. Owners may also invite contributors directly. Website CTA is prepared separately. Verify the form after merge; no invitation sent by this change. Existing open documentation PRs may require reconciliation of this handoff.
