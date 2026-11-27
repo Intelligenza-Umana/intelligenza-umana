@@ -4,6 +4,6 @@ Define scope and boundaries; approve creation; create a separate repository; app
 ## Project attribution
 Add the following visible attribution near the top of each official project README and link to this foundation and its [project registry](PROJECT_REGISTRY.md):
 
-> An [Intelligenza Umana](https://github.com/fabiozagaria/intelligenza-umana) project. See the [official project registry](https://github.com/fabiozagaria/intelligenza-umana/blob/main/docs/PROJECT_REGISTRY.md).
+> An [Intelligenza Umana](https://github.com/Intelligenza-Umana/intelligenza-umana) project. See the [official project registry](https://github.com/Intelligenza-Umana/intelligenza-umana/blob/main/docs/PROJECT_REGISTRY.md).
 
 Register the canonical repository URL in the project registry. A label or logo can be copied and is not a cryptographic signature; compare the URL with the official registry. Release signing or provenance attestations require a separately designed and verified workflow; none is claimed here. Preserve individual contributors and existing copyright notices.
