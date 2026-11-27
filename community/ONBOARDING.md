@@ -1,2 +1,5 @@
 # Onboarding
 Start with README, license, manifesto, CONTRIBUTING and open issues. Choose an issue or propose a problem in the relevant repository; discuss the approach and submit a PR with verification. Write access only when necessary and agreed. No mandatory social group or personal registration.
+
+## Optional organization membership
+Anyone can contribute without joining. If you wish to become a member, [open a membership request](https://github.com/Intelligenza-Umana/intelligenza-umana/issues/new?template=membership_request.md), or contact intelligenzaumana.lab@gmail.com privately. Requests are reviewed individually, without seniority requirements or guaranteed response times. Owners may also invite active contributors directly; acceptance is always voluntary. Membership alone does not grant write or administrative access to every repository; roles and permissions are agreed separately. An accepted request is followed by a GitHub invitation, which the applicant must accept. Do not publish personal details in issues.
