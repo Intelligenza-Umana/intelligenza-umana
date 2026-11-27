@@ -12,4 +12,4 @@ about: Report a reproducible problem in the foundation
 
 ## Context and relevant links
 
-Do not include credentials, private data or vulnerability details. Report security issues privately using [SECURITY.md](https://github.com/fabiozagaria/intelligenza-umana/blob/main/SECURITY.md).
+Do not include credentials, private data or vulnerability details. Report security issues privately using [SECURITY.md](https://github.com/Intelligenza-Umana/intelligenza-umana/blob/main/SECURITY.md).
