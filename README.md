@@ -13,7 +13,7 @@ This foundation governs identity and standards; software lives in independent re
 [Engineering standard](docs/ENGINEERING_STANDARD.md) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md) · [Project proposals](lab/PROPOSAL_TEMPLATE.md).
 
 ## Contact
-For general enquiries: [intelligenzaumana.lab@gmail.com](mailto:intelligenzaumana.lab@gmail.com) · [Join the Discord community](https://discord.gg/uP3D3ybbmT). For vulnerability reports, see [SECURITY.md](SECURITY.md).
+For general enquiries: [intelligenzaumana.lab@gmail.com](mailto:intelligenzaumana.lab@gmail.com) · [Join the Discord community](https://discord.gg/Zt85ZYEXAA). For vulnerability reports, see [SECURITY.md](SECURITY.md).
 
 ## Status
 The foundation is public and licensed under the [MIT License](LICENSE). Software repositories have their own licenses and maturity; see the [project registry](docs/PROJECT_REGISTRY.md). The community is at an early stage, and the registered tools have different maturity levels; their installation and platform compatibility still require verification.
