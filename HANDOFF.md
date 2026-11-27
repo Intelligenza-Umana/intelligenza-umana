@@ -27,3 +27,6 @@ On 2026-11-26 the canonical repository URLs for the then-registered products wer
 
 ## Organization alignment — 2026-11-27
 Canonical project links now point to Intelligenza-Umana. The website repository is public; the marketplace is registered. Founder reports that the first additional community member has joined; membership and maintainer permissions have not been independently checked. Previous test and deployment results are historical evidence, not verification of current HEAD. Current CI, production deployment and live plugin installation require fresh checks.
+
+## Contribution guide — 2026-11-27
+CONTRIBUTING now walks first-time contributors through choosing an issue, asking for clarification, forking, branching, pushing and opening a PR; it also has an AI-agent skill checklist based on the engineering standard and project registry. The wording was updated to feel more welcoming without changing the technical guidance. Its nine relative links exist, and the canonical GitHub issues link returned HTTP 200. No tests were run; these were documentation-only changes.
