@@ -1,15 +1,9 @@
 # Project registry
-| Repository | Responsibility | Status |
-|---|---|---|
-| [intelligenza-umana](https://github.com/Intelligenza-Umana/intelligenza-umana) | Governance and knowledge | Active, public; MIT |
-| [intelligenza-umana-web](https://github.com/Intelligenza-Umana/intelligenza-umana-web) | Public portal | Public repository; Vercel production status requires a fresh deployment check |
-| [iu-learning-ledger](https://github.com/Intelligenza-Umana/iu-learning-ledger) | Evidence-based assisted learning | Public, MIT |
-| [iu-spring-security-advisor](https://github.com/Intelligenza-Umana/iu-spring-security-advisor) | Spring Security audit | Public, MIT |
-| [iu-project-lifecycle-skill](https://github.com/Intelligenza-Umana/iu-project-lifecycle-skill) | Project context governance | Public v0.3.0, MIT; native host workflows unverified |
-| [iu-model-router](https://github.com/Intelligenza-Umana/iu-model-router) | Task-aware model-routing skill | Public v0.1.0, MIT; native host workflows unverified |
-| [iu-marketplace](https://github.com/Intelligenza-Umana/iu-marketplace) | Claude Code plugin catalog | Public; MIT; individual plugins retain their own versions and tests |
 
-The [GitHub organization](https://github.com/Intelligenza-Umana) is established with its [public profile](https://github.com/Intelligenza-Umana/.github/blob/main/profile/README.md). The listed project repositories are now hosted under the organization. Initial owner: founder. Learning Ledger and Spring Security Advisor have automated Python tests; live Claude Code installation and platform compatibility remain unverified. Flagship undefined.
+The [Intelligenza Umana organization repository catalog](https://github.com/Intelligenza-Umana?tab=repositories) is the live source for repository names, ownership and visibility. The [public website](https://intelligenza-umana-web.vercel.app/) provides an additional discovery interface. This document intentionally does not duplicate the changing project list.
 
 ## Verify a project
-This registry lists the canonical repositories currently associated with Intelligenza Umana. Compare the owner and repository URL with the entry above; a copied name, logo or README label alone does not establish authenticity. Release signatures and provenance attestations are not yet configured.
+
+Check the canonical GitHub owner and repository URL against the organization. Each project README, license, releases and verification evidence are the authoritative sources for its purpose, usage, maturity, supported hosts and limitations. Private repositories are visible only to authorized users; their absence from the public catalog does not establish nonexistence.
+
+A copied name, logo or README label alone does not establish authenticity. Release signatures and provenance attestations must be evaluated per project; do not assume organization-wide release verification. Historical registry snapshots remain available in Git history.
