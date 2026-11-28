@@ -15,5 +15,6 @@ These are intended symbolic interpretations, not claims about the historical mea
 | `logo-dark.svg` / `logo-light.svg` | Primary emblem for dark/light backgrounds |
 | `favicon-dark.svg` / `favicon-light.svg` | Simplified, heavier-weight small-format variants |
 | `banner-dark.svg` / `banner-light.svg` | 3:1 extended banners with reserved space for future text |
+| `wordmark-dark.svg` / `wordmark-light.svg` | Approved modern horizontal logo with organization name |
 
-SVG files are monochrome vector traces of the selected raster concepts. Small-size legibility should be checked in the target application. The wordmark is pending approval.
+SVG files are monochrome vector traces of the selected raster concepts. Small-size legibility should be checked in the target application. The modern sans-serif wordmark is approved. Both wordmark variants use identical vector outlines with inverted colours; no external font is needed.
