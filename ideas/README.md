@@ -8,6 +8,7 @@ This is not a committed backlog, roadmap, policy or implementation instruction. 
 
 | ID | Idea | Area | Status |
 |---|---|---|---|
+| IU-IDEA-002 | [Community platform integrations](community-platform-integrations.md) | Community / operations | Deferred |
 | IU-IDEA-001 | [Membership invitation automation](membership-invitation-automation.md) | Community / operations | Deferred |
 
 ## How to use
