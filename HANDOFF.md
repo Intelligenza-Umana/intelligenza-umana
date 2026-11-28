@@ -40,3 +40,6 @@ Created a non-binding ideas register with an index and reusable template, linked
 
 ## 2026-11-28 — Contributor discovery (proposed)
 Added organization-wide public beginner issue links to the foundation README, contribution guide and onboarding. The organization profile already has contribution discovery links. Website draft PR #17 proposes a live issue list; build and browser verification remain pending. External directory submissions are not confirmed; GoodFirstIssue.org requires GitHub sign-in. No membership, access, release or deployment changes.
+
+## 2026-11-28 — Membership request: optional Discord user ID
+Added an optional "Discord user ID (optional)" section to the public membership request template. It is numeric only, asks not to include personal data, and points to the private email when the applicant prefers not to publish the ID. The membership process is unchanged: no automatic admission, no mandatory membership, no access changes. The website links this template unchanged and needs no edit. Manual Discord Member assignment happens only after identity and organization membership are verified. Verification: template diff inspected; the form itself was not rendered on GitHub in this session. Next step: verify the rendered form after merge.
