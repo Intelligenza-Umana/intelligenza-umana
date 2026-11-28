@@ -11,3 +11,7 @@ Currently founder-operated and open to contributions; the [GitHub organization](
 ## Membership and responsibilities
 
 Anyone can contribute to public projects without membership. Organization membership is voluntary and recognizes sustained interest in collaboration, reliability and alignment with IU principles. Relevant experience or public work outside IU may justify acceptance before a first IU contribution; there is no seniority threshold or contribution quota. Owners review applicants individually. Membership is separate from repository permissions and maintainer responsibilities, which must be explicitly assigned according to trust and need. See [onboarding](../community/ONBOARDING.md).
+
+## Foundation versioning
+
+The Foundation uses a SemVer-inspired governance version, independent of the software projects. A patch clarifies or corrects documentation without changing policy; a minor release introduces or substantially extends compatible organizational processes or standards. Version 0.x denotes an evolving Foundation. Version 1.0.0 represents the first stable, practically validated governance baseline; later major versions signal incompatible or fundamental changes to that baseline. Release decisions depend on documented impact and evidence, not repository counts, membership totals, stars, deadlines or optional platform integrations. Record each milestone in [CHANGELOG.md](../CHANGELOG.md).
