@@ -1,4 +1,4 @@
-# Intelligenza Umana — Foundation v0.2.0
+# Intelligenza Umana — Foundation v0.3.0
 *Human intelligence. Artificial assistance.*
 
 An independent engineering and research initiative building secure, reliable, understandable and verifiable software through open-source collaboration, AI assistance and human accountability.
@@ -7,7 +7,7 @@ Focus: backend engineering, cybersecurity, data integrity, algorithms, AI reliab
 
 This foundation governs identity and standards; software lives in independent repositories. The [Intelligenza Umana GitHub organization](https://github.com/Intelligenza-Umana) is established; the project repositories are hosted under the organization. Issues and pull requests are open; the founder maintains the foundation as capacity allows.
 
-[Manifesto](MANIFESTO.md) · [Italian manifesto](MANIFESTO.it.md) · [Goals](docs/GOALS.md) · [Roadmap](docs/ROADMAP.md) · [Future ideas](ideas/README.md) · [Governance](docs/GOVERNANCE.md) · [Registry](docs/PROJECT_REGISTRY.md) · [Documentation map](docs/DOCUMENTATION_MAP.md) · [Sources of truth](docs/SOURCE_OF_TRUTH.md) · [Handoff](HANDOFF.md) · [Agents](AGENTS.md) · [Community](community/README.md).
+[Changelog](CHANGELOG.md) · [Manifesto](MANIFESTO.md) · [Italian manifesto](MANIFESTO.it.md) · [Goals](docs/GOALS.md) · [Roadmap](docs/ROADMAP.md) · [Future ideas](ideas/README.md) · [Governance](docs/GOVERNANCE.md) · [Registry](docs/PROJECT_REGISTRY.md) · [Documentation map](docs/DOCUMENTATION_MAP.md) · [Sources of truth](docs/SOURCE_OF_TRUTH.md) · [Handoff](HANDOFF.md) · [Agents](AGENTS.md) · [Community](community/README.md).
 
 ## Projects
 
