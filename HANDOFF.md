@@ -1,6 +1,6 @@
-# Handoff — 2026-11-27
+# Handoff — 2026-11-28
 ## Current state
-Foundation v0.2.0: open-source engineering lab, applied research and technical community. Four existing tools registered; flagship undefined. Foundation open to contributions and maintained by the founder; no additional maintainers confirmed. GitHub organization [Intelligenza-Umana](https://github.com/Intelligenza-Umana) created by the founder; project repositories now hosted under the organization. Logo 02 and assets preserved. Website and portfolio updated for the new mission. Website commit 8f31291 and portfolio commit 6e12e8f reached Vercel READY in production with the four-project catalog.
+Foundation v0.3.0: open-source engineering lab, applied research and technical community. The organization hosts independent repositories; project discovery uses the live GitHub catalog. The founder maintains the Foundation; no additional maintainer permissions independently confirmed. Discord and Sentinel are reported operational by the founder; membership and role procedures are documented, with end-to-end verification pending. Historical deployment and product observations below are not current status evidence.
 ## Decisions
 GitHub sole source; independent repositories; security, data integrity, backend, algorithms and reliable AI; human review and reproducible checks. Editorial strategy retired (16 files removed); history in Git. English is canonical for active documentation, code comments, commits, issues and PRs; Italian manifesto retained. Historical sessions may remain Italian.
 ## Open-source readiness
@@ -43,3 +43,7 @@ Added organization-wide public beginner issue links to the foundation README, co
 
 ## 2026-11-28 — Membership request: optional Discord user ID
 Added an optional "Discord user ID (optional)" section to the public membership request template. It is numeric only, asks not to include personal data, and points to the private email when the applicant prefers not to publish the ID. The membership process is unchanged: no automatic admission, no mandatory membership, no access changes. The website links this template unchanged and needs no edit. Manual Discord Member assignment happens only after identity and organization membership are verified. Verification: template diff inspected; the form itself was not rendered on GitHub in this session. Next step: verify the rendered form after merge.
+
+## 2026-11-28 — Foundation 0.3.0
+
+The owner approved the Community & Governance milestone. README, changelog and governance versioning policy updated. Previous community alignment changes were merged; outdated conflicting PRs were closed as superseded and the incompatible Model Router rename remains a draft. No runtime, license, permission or deployment changes are part of this version bump. Foundation documentation release is distinct from a GitHub Release/tag; publication must be independently confirmed. Next: validate the contribution and membership procedures in practice, maintain project-local evidence and avoid premature platform automation.
