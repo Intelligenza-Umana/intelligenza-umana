@@ -18,3 +18,13 @@ These are intended symbolic interpretations, not claims about the historical mea
 | `wordmark-dark.svg` / `wordmark-light.svg` | Approved modern horizontal logo with organization name |
 
 SVG files are monochrome vector traces of the selected raster concepts. Small-size legibility should be checked in the target application. The modern sans-serif wordmark is approved. Both wordmark variants use identical vector outlines with inverted colours; no external font is needed.
+
+## Brand backgrounds
+
+Original 2172 × 724 PNGs without logo or text, for social covers, website sections and presentations:
+
+- [Wave — dark](backgrounds/background-wave-dark.png)
+- [Geometry — dark](backgrounds/background-geometry-dark.png)
+- [Geometry — light](backgrounds/background-geometry-light.png)
+
+Preserve the monochrome palette and keep foreground content readable.
