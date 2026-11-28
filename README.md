@@ -9,6 +9,10 @@ This foundation governs identity and standards; software lives in independent re
 
 [Manifesto](MANIFESTO.md) · [Italian manifesto](MANIFESTO.it.md) · [Goals](docs/GOALS.md) · [Roadmap](docs/ROADMAP.md) · [Future ideas](ideas/README.md) · [Governance](docs/GOVERNANCE.md) · [Registry](docs/PROJECT_REGISTRY.md) · [Documentation map](docs/DOCUMENTATION_MAP.md) · [Sources of truth](docs/SOURCE_OF_TRUTH.md) · [Handoff](HANDOFF.md) · [Agents](AGENTS.md) · [Community](community/README.md).
 
+## Projects
+
+[Browse the live GitHub repository catalog](https://github.com/Intelligenza-Umana?tab=repositories) or visit the [website](https://intelligenza-umana-web.vercel.app/). Each project README is the source for its current status and usage; no manual project list is maintained here.
+
 ## Start contributing
 
 New to open source? [Find an unassigned good first issue](https://github.com/search?q=org%3AIntelligenza-Umana+is%3Apublic+is%3Aissue+is%3Aopen+no%3Aassignee+label%3A%22good+first+issue%22&type=issues) across our public projects. Documentation, testing and code are welcome. Comment on the issue before starting; no organization membership or Discord account is required. See the [onboarding guide](community/ONBOARDING.md).
@@ -30,6 +34,6 @@ The foundation is public and licensed under the [MIT License](LICENSE). Software
 
 Contributions to public projects are welcome from everyone, regardless of experience. Organization membership and Discord are optional. Discuss scope in an issue before starting work, then submit a focused pull request with verification evidence and limitations. Use English for shared GitHub discussions.
 
-To become an organization member, [submit a membership request](https://github.com/Intelligenza-Umana/intelligenza-umana/issues/new?template=membership_request.md). The Discord numeric user ID is optional; the issue is public, so you may provide it privately instead. A maintainer reviews requests manually and sends an official GitHub invitation if approved. Sentinel is configured to assign the Contributor role on Discord entry; the Member role is assigned manually only after identity and accepted GitHub membership are verified. Neither membership nor a Discord role automatically grants repository write access.
+To become an organization member, [submit a membership request](https://github.com/Intelligenza-Umana/intelligenza-umana/issues/new?template=membership_request.md). The Discord numeric user ID is optional; the issue is public, so you may provide it privately instead. An organization owner reviews requests individually, considering sustained interest, demonstrated reliability, relevant skills or prior contributions (including work outside IU); prior IU contributions are not required. Approved applicants receive an official GitHub invitation. Sentinel is configured to assign the Contributor role on Discord entry; the Member role is assigned manually only after identity and accepted GitHub membership are verified. Neither membership nor a Discord role automatically grants repository write access.
 
 Follow the [code of conduct](https://github.com/Intelligenza-Umana/intelligenza-umana/blob/main/community/CODE_OF_CONDUCT.md) and [private security reporting policy](https://github.com/Intelligenza-Umana/intelligenza-umana/blob/main/SECURITY.md). Each project retains its own license, maturity and verification requirements.
