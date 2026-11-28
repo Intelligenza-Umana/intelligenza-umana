@@ -37,3 +37,6 @@ Added an optional public membership request template and a private email alterna
 
 ## 2026-11-27 — Future ideas
 Created a non-binding ideas register with an index and reusable template, linked from the foundation README, roadmap, documentation map and sources of truth. IU-IDEA-001 records deferred membership invitation automation, approval safeguards, alternatives and revisit criteria. Manual invitations remain the current process. No executable workflow, credentials, permissions or invitation behavior changed. Documentation-only change; no runtime tests apply. Existing open PRs may require documentation reconciliation.
+
+## 2026-11-28 — Contributor discovery (proposed)
+Added organization-wide public beginner issue links to the foundation README, contribution guide and onboarding. The organization profile already has contribution discovery links. Website draft PR #17 proposes a live issue list; build and browser verification remain pending. External directory submissions are not confirmed; GoodFirstIssue.org requires GitHub sign-in. No membership, access, release or deployment changes.
