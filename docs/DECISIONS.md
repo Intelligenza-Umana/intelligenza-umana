@@ -18,3 +18,5 @@
 2026-11-26 — The founder asked for the motivation text to be written in the first person. `docs/MOTIVATION.md` and its Italian original `docs/MOTIVAZIONE.it.md` were aligned; meaning unchanged. The first-person text is also shown on the public website and the founder's portfolio.
 
 2026-11-26 — The founder asked that the project be referred to as "Model Router" in running text. The repository name `iu-model-router` and its URLs keep the IU prefix and are unchanged. Not changed here: the project's own repository, which is not part of this change.
+
+2026-11-28 — Approved replacement of Logo 02 with the human-centred emblem and modern sans-serif wordmark. The former monogram assets are retired from the active foundation; the canonical visual identity is documented in [assets/brand](../assets/brand/README.md). Historical decisions remain unchanged.
